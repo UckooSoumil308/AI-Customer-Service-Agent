@@ -1,0 +1,926 @@
+tweet_id,rag_context_text
+615,[CUSTOMER] I'm sorry we've let you down! will you describe the issue? We'd love to help. ^TN
+618,[CUSTOMER] We'd like to take a further look into this with you! ^AG
+620,"[CUSTOMER] I am unable to affect your account via Twitter. For real time support, phone or chat use this link: ^CH"
+622,"[CUSTOMER] Hi, wir erhalten die Filme/Serien so vom jeweiligen Studio. Gebe ich aber direkt als Feedback dorthin weiter. Gruß ^JS"
+625,[CUSTOMER] Wir haben zu danken. Schönen Abend noch. ^JS
+626,[CUSTOMER] I'm sorry for the wait. You'll receive an email as soon as we have an estimated delivery date. ^FJ
+629,[CUSTOMER] Thanks for your patience. ^KM
+631,[CUSTOMER] I'm sorry your order arrived in this condition! Please reach out to us for available options: ^DG
+633,[CUSTOMER] I'm sorry for the wait. Please reach out to us so we can take a closer look at this delivery: ^SH
+635,[CUSTOMER] Alexa says both styles are working for you! My vote goes to the Flamingo look! ^SE
+637,[CUSTOMER] Were you able to reach us at the link DW provided? ^TR
+639,"[CUSTOMER] The Echo Show is supported, please reach us for some live troubleshooting at your convenience: ^DW"
+642,"[CUSTOMER] Oh no, I'm sorry for the issues! For troubleshooting, please check out our Echo Help pages here: ^SG"
+644,[CUSTOMER] I'm so sorry you didn't receive your parcel! We'd like a chance to look into this with you here: ^SY
+647,[CUSTOMER] You can also request a call back here Martin ^KM
+648,[CUSTOMER] Thanks for bringing this to our attention! Please also leave packing feedback here: so we may improve.^KL
+650,[CUSTOMER] Oh no! We want to hear more about your experience with AMZL. Please provide your feedback here: ^SH
+653,"[CUSTOMER] Is there a current order you're having difficulties with? Please let us know, we'd like to help! ^KL"
+655,[CUSTOMER] Provide your details here: and my team will escalate the order to Amazon Logistics for feedback. ^EZ
+656,[CUSTOMER] Let us know if there’s anything else we can do for you! We're happy to help out any way we can! ^FR
+658,[CUSTOMER] I'm sorry your book arrived this way! You can find replacement/refund options here: ^VS
+660,[CUSTOMER] ¡Que lindoooooooooo! 😍🐶🎃 ^JJ
+663,[CUSTOMER] Oh no! Please contact us via phone/chat here: We're unable to view order details via Twitter. ^KL
+665,[CUSTOMER] You're not lion! She even shows witch way is up! That's quite the wardrobe! ^AC
+668,[CUSTOMER] Oh my! I'm sorry for the troubles! Contact us by Phone or Chat: &amp; we'll be glad to help! ^FR
+675,[CUSTOMER] That's okay! Thanks for checking! Please contact us by phone or chat and we can look into this: ^BN
+680,[CUSTOMER] I'm sorry for the trouble this has caused you; please contact us so we may lend you a hand: ^WM
+684,[CUSTOMER] Please share your details here: and I'll get back to you. 2/2 ^HD
+687,[CUSTOMER] Thanks for confirming that the details have been shared. Our team will give it a look and reach out shortly. ^AB
+689,[CUSTOMER] Please report this to our support team here: and we'll look into this. 2/2 ^HD
+692,[CUSTOMER] We still offer discounts on eligible physical game pre-orders. For further details on Prime benefits: ^MB
+694,[CUSTOMER] I'm sorry we let you down! We'd like to make sure this is addressed. Please provide some details here: ^BN
+1692,[CUSTOMER] Hey Georgia! Sorry you haven't received your package. We'd love to help! What does the current tracking say on your order? ^AJ
+1696,[CUSTOMER] I'm sorry for the delay! We'd like to take a further look into this with you! Please reach us here: ^AG
+1697,[CUSTOMER] Canceling your Prime membership can be done here: You'll be shown your estimated refund there. ^SK
+1700,[CUSTOMER] Hey Corey! Even on the new account you made you can turn of the auto renew through the same link ^SK posted for you. ^AJ
+1704,[CUSTOMER] It would be best if you get in touch with us by phone or chat.use this link to do so: ^CH
+1705,[CUSTOMER] I'm sorry to hear you're not able to access your account. Please use this link instead to contact us: ^LH
+1707,[CUSTOMER] Hmm... We'd like to take a better look at this with you. Please reach us via phone/chat here: ^KP
+1709,[CUSTOMER] I'm sorry you've encountered an unknown charge! We'd be happy to look into this with you here: ^BL
+1711,[CUSTOMER] Thanks for reaching out to us! You can find info on adding household members here: ^MO
+1714,[CUSTOMER] Sorry for the inconvenience! Check out how to manage your notifications here: ^SG
+1716,[CUSTOMER] I'm sorry for the long wait; what is your current order status showing when you review it: ^WM
+1719,"[CUSTOMER] Thank you for keeping us posted, Rachael! ^BA"
+1720,"[CUSTOMER] I'm sorry for the frustration, Anthony! Can you tell me more about which pre-order bonuses are missing? ^EA"
+1723,"[CUSTOMER] We'd like to see what we can do to help. What date did you place the order on, and which version did you order? ^MB"
+1725,[CUSTOMER] Could you link us to the page of the item on our website? This will allow us to take a closer look at all options. ^VB
+1727,[CUSTOMER] Thanks for the link. We are not a participating retailer to receive the bonus content. Details: ^BE
+1734,[CUSTOMER] Oh no! I'm so sorry to hear this. Was the item sold by Amazon directly or Third-party seller: ^LH
+1737,"[CUSTOMER] in real time, Bry. When you can, please ring or chat in with us: ^BL"
+1739,"[CUSTOMER] Oh no, Barton! Have you tried uninstalling and re-installing the app? Perhaps a power cycle too? Please let us know. ^KL"
+1742,[CUSTOMER] Sorry you're still having trouble! What error are you seeing when you try to use the app? ^JP
+1743,"[CUSTOMER] Oh no! We'd like to help you with this, Kelly! Can you tell us more about what's happening with the Kindle? Thanks! ^AJ"
+1746,[CUSTOMER] No problem! You may need to deregister the Kindle from the old account. You can see how here: ^AJ
+1747,"[CUSTOMER] (2/2) Also, for your security, I'd recommend deleting the image, as it contains your tracking number. ^WT"
+1749,[CUSTOMER] I'm so sorry! We'd like to make sure this is addressed. Please provide some details here: (1/2)
+1750,[CUSTOMER] I'm sorry you received an incorrect item. Have you checked out our return/replacement options here: ^FJ
+2542,[CUSTOMER] How long has it been since you've e-mailed the seller? ^TR
+2545,"[CUSTOMER] Please allow 48 hours for the seller to respond, Allen. Let us know how it works out and if we can help with anything else! ^CN"
+2546,[CUSTOMER] We're unable to view any account information via Twitter. What's the current tracking shown here: ^AG
+2548,[CUSTOMER] I'm sorry you haven't received it yet! Have you had an e-mail regarding the order? Please check junk/spam and let us know! ^TG
+2550,"[CUSTOMER] Du kannst bei den Kategorien ""Bücher"" oder ""Bücher Fremdsprachig"" auswählen, wobei ersteres deinem Wunsch entspricht. Gruß ^JS"
+2552,"[CUSTOMER] Hi, just a question at the beginning - do you prefer answers in German or English? ^NW"
+2554,"[CUSTOMER] I'm so sorry for the late delivery, Kimmie! Our carriers can deliver until 8 PM, please keep us updated on its arrival. ^BE"
+2557,[CUSTOMER] I'm sorry that it still hasn't arrived. Please contact us so that we can look into this together: ^EA
+2558,[CUSTOMER] Hello! We'd love to help. Can you tell us a bit more about what's happening? ^EB
+2560,[CUSTOMER] We'd like to take a closer look into this refund for you. Please reach us at: ^CC
+2564,[CUSTOMER] I'm sorry it hasn't arrived! Please reach us here: so we can look into available options. ^SJ
+2566,"[CUSTOMER] Most items are readily available for shipping; however, some aren't and may have a longer processing time than others. ^QJ"
+2569,"[CUSTOMER] I would like someone from our team to take a look into this for you, Sanu. Please reach out here: ^LA"
+2571,[CUSTOMER] Have you had a chance to speak with your bank regarding the refund? ^EA
+2573,[CUSTOMER] When you last contacted us what information did we provide? Have you spoken with your bank to see if they have the refund? ^LR
+2575,"[CUSTOMER] I'm sorry for the frustration! Without giving personal/account details, could you tell us a bit more about what's going on? ^DG"
+2578,"[CUSTOMER] I'm sorry for the frustration! Without giving account/personal details, can you please provide us with more info? ^AC"
+2582,[CUSTOMER] We'd like to look deeper into this issue. Please provide us with more information here: ^LH
+2583,[CUSTOMER] We're definitely here to help! Please reach out to us by phone here: ^SE
+2585,[CUSTOMER] I'm sorry your order hasn't arrived yet! Please let us know if you haven't received it within 48 hours. ^EB
+2587,[CUSTOMER] We'd like another chance to look into this. Please reach out by phone or chat: Please keep us updated. ^FJ
+2592,[CUSTOMER] Have you tried deleting the card from the account and re-adding it? Have you reached out to USPS about these deliveries? ^AF
+2595,[CUSTOMER] Can you tell us what insight / advice was provided with when you spoke with us last? We'd like to help if we can. ^BG
+2599,"[CUSTOMER] Sorry for the poor experience. Without giving any account information, could you tell us what's going on? We'd love top help! ^MH"
+3654,"[CUSTOMER] Hi, you can edit your order at any time before it enters the dispatch process. To do this please check out our help page: ^KI"
+3722,"[CUSTOMER] When you have a moment, please reach out to us here: ^AC"
+3725,[CUSTOMER] Is everything in your basket eligible? You can find more info here: Let us know if this helps! ^EB
+3727,[CUSTOMER] I'm sorry for the trouble! Have you tried the steps outlined here? ^LA
+3730,[CUSTOMER] Hmm.... Let's take a closer look into what's going on here: ^ML
+3731,[CUSTOMER] I'm sorry your account is locked! Please reach out directly to us here: so we can take a closer look. ^TN
+3734,"[CUSTOMER] The link ^TN provided will allow you to contact us without signing in! Select ""skip log in"" and you'll be in touch in no time! ^VB"
+3735,[CUSTOMER] Hier findest du alle Infos darüber: ^AS
+3738,"[CUSTOMER] Du hast die Möglichkeit, Amazon.de Geschenkkarten aus dem stationären Handel für deine Bestellungen einzulösen. Gruß ^DS"
+3739,[CUSTOMER] Olá Georgiano. Sinto muito em saber disso. Por favor entre em contato com o nosso SAC no seguinte link: ^JJ
+3741,"[CUSTOMER] Not what we like to hear at all, Ramya! Was this shipped by us or a seller? You can check here: ^BL"
+3743,[CUSTOMER] ¿Puedes explicarnos bien el inconveniente y mandarnos los detalles en este enlace por favor? ^JJ
+3745,"[CUSTOMER] David, te recomendamos no compartir informaciones personales por este medio, te sugerimos editar o eliminar este mensaje. (1/2)"
+3747,[CUSTOMER] Have you already tried a restart? Kind regards ^NW
+3750,[CUSTOMER] Is this still ongoing? What devices are you using? ^AN
+3752,[CUSTOMER] What devices are you using for Amazon Video? ^AN
+3754,[CUSTOMER] In this case please contact my colleagues via: They will help you! Regards ^DW
+3755,[CUSTOMER] Hi! I just wanted to ask if my colleagues could assist you? Regards ^TA
+3757,[CUSTOMER] Changing language is just a simple click: You can reach our support here: ^UK
+3758,[CUSTOMER] I'm sorry your parcel wasn't delivered. Please reach us here: so we can look into this with you. ^MO
+4787,[CUSTOMER] Oh no! Did we miss the expected delivery date from your confirmation e-mail here: Please let us know. ^KL
+4828,[CUSTOMER] I'm sorry for the trouble! Let's go over your available options here: ^LL
+4830,[CUSTOMER] Alexa is a free download you will need to set-up your new Amazon Echo! You can learn more here: ^BN
+4832,"[CUSTOMER] Uh oh! If you can't recover it, please reach out to us here and we'll see what options are available: ^MB"
+4846,"[CUSTOMER] I'm sorry. We can't access your account via Twitter. For assistance, please reach us here: ^WT"
+4851,[CUSTOMER] We want our team to investigate this further with you. Please reach out to us using the secure link:
+4852,"[CUSTOMER] I'm so sorry for the frustration, Luis. We should absolutely be able to help! Please contact us using the link TN provided. ^SD"
+4854,[CUSTOMER] I'm sorry for the challenge signing in. Please use the link from above again so that we can help. Keep us updated! ^MH
+4856,[CUSTOMER] Please reach out to us directly here: We'd love to help get you logged in! ^TN
+4858,[CUSTOMER] Sorry you're having problems logging in. Please let us know which Amazon site you are using (.com .es). Thanks. ^SE
+4860,"[CUSTOMER] Oh no! Have you had a chance to report this to us: If so, what options and insight did we provide? ^GM"
+4862,"[CUSTOMER] I'm sorry for the poor experience, Skylar. Were you given a reason for the delay? Check here: ^FD"
+4865,"[CUSTOMER] To confirm, what does the latest tracking update show? Please check here: ^BE"
+4867,"[CUSTOMER] I'm very sorry about your lost package, Lodi! We'd like to help! Please reach out to us here: ^HM"
+4945,"[CUSTOMER] Gracias por la información, Quirino. Por favor, contacta con nuestros colegas de Servicio al Cliente para una atención personalizada y puedan darte información precisa sobre tu paquete. Lo puedes hacer a través del siguiente enlace: ^LC"
+4948,[CUSTOMER] ¡Nos alegra saberlo Quirino! Te agradecemos que nos hayas contactado y esperamos que puedas disfrutar de tu compra. Quedamos a tu servicio. ¡Saludos! ^PC
+4949,[CUSTOMER] Quirino al ingresar al correo de confirmación de compra te aparecerá un enlace en el cual esta el número de guía de tu pedido. También puedes utilizar la siguiente información para contactar con el transportista: ^PC
+4951,"[CUSTOMER] ¡Hola, Quirino! Lamentamos cualquier confusión generada, ¿te has puesto en contacto con el transportista asignado a la entrega? ^LC"
+4953,[CUSTOMER] I'm sorry for the frustration! We'd like to investigate and escalate this to the correct team. Please send us your details here: ^JP
+4955,"[CUSTOMER] I'm sorry for the ongoing trouble with your deliveries! Have you had a chance to contact us about this: If so, what information or options were we able to offer? ^SB"
+4958,[CUSTOMER] Thanks for the additional information. Keep us posted on the arrival of your packages! Let us know if you have any further questions. ^SW
+5116,"[CUSTOMER] Thanks for reaching back out to us! If your item is not eligible for replacement, you can still return the item for a full refund instead. You can view your replacement and/or return options here: ^BN"
+5118,[CUSTOMER] I'm sorry your items arrived in these conditions. Let's explore your return or replacement options here: ^GG
+5120,"[CUSTOMER] I'd like to have a member of our team ensure this is escalated to the correct teams for investigation. When you have a moment, please send us as many details as possible here: ^SB"
+5123,"[CUSTOMER] We'd like to make sure this is addressed, Eric. Would you tell us more about what happened? ^AM"
+5126,"[CUSTOMER] I understand your frustration! Our team would like a chance to address this concern. At your convenience, include your details here: ^SJ"
+5129,[CUSTOMER] I'm truly sorry for the inconvenience! We don't have access to your account via Twitter. We'd like to help if we can. Please connect with us here so we can assist you: ^MO
+5130,"[CUSTOMER] I'm so sorry to hear your order was scanned as delivered when it wasn't. We'd like to help if we can. Just to confirm, who's the carrier shown on your order here: ^CC"
+5132,"[CUSTOMER] I'm sorry for the frustration! We'd love to help but are unable to access your Amazon account via Twitter. You can view the latest tracking information for your order, including if it has shipped, here: ^LR"
+5135,"[CUSTOMER] If you would like to contact our support team via phone, please give us a call so we can review these details with you: 1-866-216-1072. ^WM"
+5136,[CUSTOMER] I'm sorry you have received your item! Can you please tell us the intended delivery date stated in your order confirmation e-mail? ^AC
+5138,[CUSTOMER] I'm sorry for this wait. Has the tracking information on your order updated: Deliveries continue through to 8PM so please keep us in the loop on your order's arrival. Thank you. ^DO
+5148,[CUSTOMER] Very strange! Is your friend able to replicate the issue on his app? You might also need to try uninstalling and reinstalling the app. ^JP
+5154,"[CUSTOMER] Appreciate your kind words, Dhiraj. Enjoy your weekend. :) ^MK"
+5157,[CUSTOMER] You're welcome Dhiraj. :)
+5280,"[CUSTOMER] Oh no! I'm sorry to hear your order hasn't arrived! Have you had a chance to contact us about this issue? If so, what options were we able to provide? We want to make sure this issue has been resolved for you! ^BN"
+5283,"[CUSTOMER] We'd like to help in any way we can, Juan! I've enabled direct messaging. Without providing personal or account information, please tell us a little more about what's going on. ^FD"
+5286,[CUSTOMER] Thanks for the information. We've responded to your DM. ^GG
+5289,[CUSTOMER] Kindly reach out our support team here: for more details on account closure. ^MK
+5292,[CUSTOMER] Puedes también comunicarte a través del siguiente enlace de contacto para que se revise tu caso: ^PC
+5294,"[CUSTOMER] ¡Hola! Lamentamos cualquier molestia ocasionada, ¿puedes contarnos lo sucedido? ^LC"
+5297,[CUSTOMER] Hola Val Damon. Puedes hacer una prueba gratuita de Prime Video si nunca lo has usado. Accesa este enlace: ^JJ
+5299,[CUSTOMER] Awesome! Enjoy! ^BL
+5303,"[CUSTOMER] Please try asking Alexa to stop playing your music, and then ask her to play your music again, but without referencing the ""Multi-Room Music group"" you were previously using: ^JR"
+5306,[CUSTOMER] Gotcha- Let us know if you haven't heard back from them on Tuesday. ^BL
+5309,[CUSTOMER] Can you tell us when this information was submitted? Account Specialists can take up to 2 business days to investigate an account when the information has been sent. ^EZ
+5311,[CUSTOMER] Did information get sent to our Accounts Specialists to look into when you contacted in? ^DO
+5313,"[CUSTOMER] Thanks for letting us know about this, Jon. We're here to help! We can be reached 24/7 here: Please do keep us in the loop. ^BL"
+5316,[CUSTOMER] Danke :-)
+5318,[CUSTOMER] Bei unzustellbaren Sendungen wird gewöhnlich nach Bearbeitung der Retoure eine Erstattung veranlasst. Den Grund können wir von hier aus leider nicht einsehen. Bei Fragen hierzu kannst du dich gerne per E-mail/Telefon an unseren Kundenservice wenden. Schönen Abend ^MH
+5320,[CUSTOMER] Listen ad-free with unlimited skips with Music Unlimited. Stream on!! ^RR
+5326,"[CUSTOMER] Prime shipping refers to transit time after your orders ship, in working days. Some orders require additional processing and handling. The delivery date shown at checkout is the most accurate. ^LR"
+5329,[CUSTOMER] Some deliveries may take slightly longer than usual. You can read more information on here: ^KI
+5330,"[CUSTOMER] Hi there, I'm sorry for the delivery troubles! Just to confirm, are you trying to place an order right now, or is this an ongoing issue? Are we missing the promised delivery dates here: ^DW"
+5776,"[CUSTOMER] Zainda, nos comentarías, ¿ya entraste en contacto con nuestro Servicio de Atención al Cliente? ^HC"
+5780,"[CUSTOMER] Olá, H.o! No momento não temos previsão, mas qualquer novidade será anunciada diretamente no nosso site e redes sociais. ^CR"
+5788,[CUSTOMER] Please share your details here: and I'll get in touch with you. 2/2 ^HD
+5790,[CUSTOMER] Apologies for this unpleasant experience. I'd like to take a closer look. 1/2 ^HD
+5791,[CUSTOMER] (2/2) ... please reach out to us for real-time troubleshooting here: ^WT
+5795,"[CUSTOMER] I'm sorry, I see we do have both episodes available. Can you let us know which device you are streaming this on? ^EB"
+5794,[CUSTOMER] I'd recommend restarting your Fire Stick by unplugging it from the TV and wall outlet. If that doesn't work... (1/2)
+5800,"[CUSTOMER] We know not having service is ruff, but dogs make everything better! 🐶 ^HM"
+5802,"[CUSTOMER] Thank YOU, Alisondra, for being one of our amazing customers! ^BE"
+5804,[CUSTOMER] I'm sorry for the wait! Please let us know if it does not arrive by 8PM. We want to make sure you receive the order. ^DD
+6956,"[CUSTOMER] When you have a moment, please phone us here: ^RR"
+6959,"[CUSTOMER] If you follow the link ^RR provided, we'd love to give you a call. ^MH"
+6962,[CUSTOMER] Hi there! We are not able to see customer's account information here on Twitter. Please reach out to us by calling 866-216-1072 and keep us updated on the outcome! ^SP
+6964,[CUSTOMER] You're welcome. Reach out again if you have questions in the future. We're here to help. ^JF
+6965,[CUSTOMER] I am so sorry this has happened. Can you please clarify the carrier for us? We want to assist! You can see that info here: ^BA
+8510,"[CUSTOMER] I'm sorry your package wasn't picked up! When you have a moment, reach out to us here: ^AC"
+8512,"[CUSTOMER] We're unable to view your account, but we'd like to help in real-time, via phone or chat here: ^NN"
+8514,"[CUSTOMER] Hola Mary. Para más detalles sobre como cancelar tu membresía de Amazon Prime, ingresa a: ^HC"
+8517,"[CUSTOMER] Mary, si no te has beneficiado de las ventajas de Prime, recibirás el reembolso. Recibirás un e-mail con más detalles. ^LG"
+8518,[CUSTOMER] Hola MaryGuerra. Para cancelar Amazon Prime por favor accesa este link para instrucciones: ^JJ
+8520,"[CUSTOMER] Sin dudas, el mejor lugar para comer pollo frito. 🍗 ¡Nos alegra saber que recibiste tu pedido, Carl! :D ^CR"
+8523,"[CUSTOMER] Hmm, that's strange! Try going to Settings and reviewing your history. From here, you can see what prompted your Echo. ^FD"
+8525,"[CUSTOMER] I'm sorry for the wait, Jamie! What's the current status of your order here: ^SH"
+8528,"[CUSTOMER] I understand your concern. At your earliest convenience, : ^GM"
+8530,"[CUSTOMER] I can understand your reluctance, but we can provide you with additional options depending on who the seller is. ^SY"
+8533,"[CUSTOMER] Hi, is the book listed as sold or fulfilled by Amazon? If so, please get in touch with us via the link ^GM provided. ^TS"
+8534,[CUSTOMER] It would be best to contact us directly here: and we can look into this further then. ^PK
+8536,"[CUSTOMER] (2/2) If we’ve missed the date in our order confirmation e-mail, please let us know here: ^WT"
+8538,[CUSTOMER] I'm sorry for the wait! Two-Day Shipping refers to transit speed in business days once an order's shipped. (1/2)
+8539,[CUSTOMER] Request you to please fill in the details in the link provided earlier and we'll look into this. ^MK
+8580,"[CUSTOMER] Hi there, items are not billed to you until they have shipped. If you have been charged for the order already, the refund will reflect on your account within 5-7 business days. You can read more about it here: -RD"
+9118,"[CUSTOMER] Without posting account information, could you provide us with a few details about the issue? We'd like to help! ^WM"
+9121,"[CUSTOMER] Thanks for the update! I'm sorry about the order issues and your inconvenience, but glad that everything has been resolved. ^SE"
+9122,[CUSTOMER] Sorry! Try this one instead: ^TR
+9126,[CUSTOMER] Hi Emma. I understand. You can use this link (which doesn't require a log in) to get in touch: ^DC
+9128,"[CUSTOMER] We're here to help! Please, reach us phone or e-mail so we can investigate: ^EB"
+9130,[CUSTOMER] Oh no! We'd like to review these charges and available options with you. Please reach us here: ^EZ
+9133,[CUSTOMER] I'm sorry your order hasn't arrived! Please reach us here: if it doesn't arrive tomorrow. ^EZ
+9136,[CUSTOMER] I'm sorry your shipment hasn't arrived; what is the latest status on the order: ^LR
+9140,[CUSTOMER] I'm sorry you haven't received your order. Reach out to us here so we can look into this with you: ^JP
+9143,[CUSTOMER] You're welcome. Do keep us posted for any further assistance. ^MK
+9145,[CUSTOMER] Thank you for providing the details. We are working on it and we'll get back to you soon. ^SY
+9764,[CUSTOMER] Please report this to our support team here: and we'll look into this. 2/2 ^HD
+9768,"[CUSTOMER] Please don't provide your details, we consider it personal information. Our Twitter page is visible to public. ^MK"
+9769,"[CUSTOMER] Sorry for this ordeal, Benish. Please share your details here: and I'll get in touch with you. ^HD"
+9771,[CUSTOMER] Please share your details from the link provided for us to look into your concern and assist you further. (2/2) ^SV
+9772,"[CUSTOMER] I get your concern, Benish. As this is a public platform, we wouldn't be able to check your order/account related info. (1/2)^SV"
+9774,[CUSTOMER] We haven't received your details. Kindly share your details here: and I'll get in touch soon. ^AK
+9776,"[CUSTOMER] Please don't provide your order details, as we consider them to be personal info. Our page is visible to the public. (2/2) ^GK"
+9777,[CUSTOMER] We've received your details and we'll reach out to you soon. (1/2) ^GK
+9778,"[CUSTOMER] Apologies for the delay in delivery of your order, Benish. We'd like to take a closer look. 1/2 ^HD"
+9779,"[CUSTOMER] I'm sorry about the damage, Raymond! Have you explored options for refund/replacement here: ^SH"
+9782,[CUSTOMER] I understand! Returns can be made as long as they fall under this policy: Hope this helps! ^BL
+9783,"[CUSTOMER] Please don't provide your details, we consider it personal information. Our Twitter page is visible to public. 2/2 ^MK"
+9785,[CUSTOMER] We've emailed you in response to the details you shared earlier. Please reply on the same for further assistance. 1/2 ^MK
+9787,[CUSTOMER] We are always looking for ways to improve! You can provide your feedback to our developers here: ^EA
+9789,[CUSTOMER] I'm sorry you didn't receive the correct items! I recommend trying the steps here for wrong items: ^SJ
+9792,[CUSTOMER] Please keep us posted if a replacement was provided. We want to ensure you receive the correct phone case. ^EZ
+9793,[CUSTOMER] I'm sorry for the bad experience! What options did we offer on the phone? ^TN
+9795,"[CUSTOMER] I'm sorry for any trouble, Chris! We're here to help. Are you having trouble with a specific order? ^BL"
+9797,"[CUSTOMER] I get your concern, BIgral. I'll share your comments with internal teams for review. Do keep us posted. ^SV"
+9800,[CUSTOMER] I just checked and can see that we have sent you an email correspondence. Request you to please check your spam folder. ^MK
+9803,"[CUSTOMER] If you haven't received any email, please share your details here: and we'll get back to you. ^HD"
+9805,"[CUSTOMER] If you've shared your details in the link, we'll check and get back to you with an update soon. ^MK"
+9806,[CUSTOMER] Sorry for the trouble with the order. We've emailed you here: Kindly check and respond. Please 1/2
+9809,[CUSTOMER] We would like to investigate further with you. Please reach out to us at your convenience: ^JP
+9812,"[CUSTOMER] Oh, no! Without providing personal/account information, could you tell us more about what's going on? ^DG"
+9815,[CUSTOMER] I'm sorry it hasn't arrived! We strive to meet the delivery date in your confirmation e-mail. Have we missed that date? ^MO
+9818,"[CUSTOMER] (2/2) If we’ve missed the date in our order confirmation e-mail, please let us know here: ^WT"
+9820,[CUSTOMER] I'm sorry for the wait! One-Day shipping refers to transit time in business days once an order's shipped! (1/2)
+9822,[CUSTOMER] We are happy that our new selections bring you some comfort. Stay strong Cassandra ^CH
+9824,"[CUSTOMER] Olá, Tiago. Atualmente essa opção não está disponível. Qualquer novidade será anunciada no nosso site e redes sociais. ^CR"
+9954,[CUSTOMER] Sorry to hear you're having issues with your Fire tablet. Seems to be a bit of an issue with the link above. Please provide info here: so we can look into this for you. ^ES
+9956,[CUSTOMER] I'm sorry for this poor experience. Please pass your details to us here: ^RR
+9958,[CUSTOMER] I'm so sorry we've let you down; that's never our intent! We'd like to take a closer look into this and explore options with you. Please reach us by phone or chat when you have a moment for direct assistance: ^LL
+10320,[CUSTOMER] I'm sorry for any concern this causes! We'd like a chance to look into this with you by phone or chat here: ^WT
+10623,[CUSTOMER] I'm sorry about that! I would recommend logging out and clearing cache and cookies. Let us know if that works! ^LM
+10625,[CUSTOMER] I'm glad you're enjoying the Oasis! You're welcome to send us feedback with this e-mail: __email__. ^SJ
+10627,[CUSTOMER] I'm sorry! Blue Shade isn't a supported feature on child profiles. ^WT
+10630,[CUSTOMER] Garcias Jäcob Pintle :). Nos alegra mucho saber que hacemos bien nuestro trabajo. Tratamos de mejorar cada día más. 😃🤝 ^JJ
+10632,[CUSTOMER] I'm sorry we let you down! Do you have a current order that has passed the delivery date? ^DD
+10635,"[CUSTOMER] What does the current tracking indicate? Also, who does the tracking indicate as carrier?: ^VB"
+10638,[CUSTOMER] Hi Mark! Deliveries will run up until 21:00. Let us know what happens. Chuck H
+10641,[CUSTOMER] I'm sorry it hasn't arrived! Please get in touch with us here: for available options. ^EZ
+10642,[CUSTOMER] Please get in touch with us here: and we'd be happy to review available options with you. ^EZ
+10644,[CUSTOMER] We'd like to help! Have you noticed any unauthorized activity on your account? ^VB
+10646,"[CUSTOMER] I'm so sorry for the wait. If you have a moment, please contact us by chat or phone: ^LH"
+10652,[CUSTOMER] I'm sorry your order hasn't arrived! We'd like to see how we can help so please reach us here: ^DD
+10654,[CUSTOMER] Oi Juliana. Qual é a data de entrega do seu pedido? 🤔 ^JJ
+10657,[CUSTOMER] I'm sorry to hear about the trouble. We'd like to take a closer look into this for you here: ^LI
+10659,"[CUSTOMER] Oh no, Blair! Can you confirm the delivery date that was provided in your order confirmation email? ^LA"
+10661,[CUSTOMER] I'm sorry you haven't received your item! Can you tell us who the carrier is? Found here: ^AC
+10663,[CUSTOMER] We always strive to get your order to you at the stated expected delivery time that is stated at the time of checkout ^CH
+11013,"[CUSTOMER] Yes, Release-Date Delivery is definitely a thing and the Amazon Prime two day shipping does mean two days after processed. ^CN"
+11016,[CUSTOMER] I'm sorry for the frustration! Did you select Release-Date Delivery at checkout? ^AC
+11018,[CUSTOMER] I'm sorry! We'd love to help where we can. Please give us more details without sharing personal account information. ^LM
+11025,[CUSTOMER] We'd still like to help. What does the tracking show in Your Orders: Who is the carrier here? ^SJ
+11028,"[CUSTOMER] When you were on the phone with us, did we mention a date as to when we could provide more options? ^TN"
+11031,"[CUSTOMER] Hey, Mike! Were the other late items also shipped via USPS? You can check here: ^LA"
+11033,[CUSTOMER] I hope you are willing to give us a chance in the future to make things right. ^TN (2/2)
+11034,"[CUSTOMER] I'm sorry we let you down on this order. If the order arrives too late, you can return them for a full refund. ^TN (1/2)"
+11035,[CUSTOMER] Yikes! We'd like to take a closer look into this. Please reach out with more information here: ^DG
+11037,[CUSTOMER] I'm sorry you haven't received an update on your shipping details! You can check your order here: ^MO
+11040,[CUSTOMER] Please keep an eye on your e-mails and check your junk/spam folder. We'll let you know once we've confirmed a date. ^NM
+11043,"[CUSTOMER] Thanks for reaching out, Gemma! We have responded to your direct message. Please respond to us there! ^HM"
+11045,[CUSTOMER] I am so sorry about that! Who was the carrier? You can find that info here: ^BA
+11047,[CUSTOMER] Please give us a call here: so we can take a look into this with you! ^TR
+11050,[CUSTOMER] Thanks for the information. Please let us know if your order doesn't arrive by Friday. ^EZ
+11052,[CUSTOMER] I'm sorry that your package has not shipped! Did we miss the promised Delivery date found here: ^LM
+11058,[CUSTOMER] I'm sorry your order hasn't arrived! What is the delivery date shown in the confirmation e-mail: ^SJ
+11061,[CUSTOMER] Please get in touch with us here: and we'd be happy to review available shipping refund options. ^EZ
+11062,[CUSTOMER] Please try to remove and reinsert the SD card following the steps here: Let us know how this helps! ^MB
+11067,[CUSTOMER] Check the SD Card slot and make sure there is no particulate matter which may be effecting how the card is being detected. ^CH
+11068,[CUSTOMER] We'd like to try to solve this problem for you! Please contact us here so we can take a closer look: ^CN
+11069,"[CUSTOMER] That's odd! We'd like to help further with this. When you can, please reach out to us here: ^HM"
+11071,[CUSTOMER] I'm sorry you haven't received your order yet! Have we missed the delivery date confirmed via e-mail: ^GM
+11074,[CUSTOMER] We're unable to access accounts on Twitter but we'd like to look into it for you here: ^LI
+11077,[CUSTOMER] Oh no! I'm sorry you haven't received your order! Please contact us here so we may look into this: ^BN
+11080,[CUSTOMER] We'd still like to help. What is the delivery date shown in the order e-mail: Who is the carrier? ^SJ
+11082,[CUSTOMER] I would like a member of our team look into this for you. Please fill out this form: ^BA
+11083,"[CUSTOMER] I'm so sorry to hear this! Without revealing any personal account information, will you provide us with more details? ^LH"
+11086,"[CUSTOMER] What kind of problems are you having with your Fire Stick, Mildred? ^VB"
+11088,[CUSTOMER] Oh no! in real time with you. Please reach us via phone here: ^AB
+11089,"[CUSTOMER] I'm sorry your order arrived damaged, Marsha! You can see available options for that item here: ^LA"
+11566,[CUSTOMER] Lamento los inconvenientes. Recomiendo reportar lo ocurrido a nuestro Servicio al Cliente: ^CR
+11569,[CUSTOMER] Comprendo. ¿Ya entraste en contacto con el transportista? ^CR
+11571,[CUSTOMER] Hola.¿Cuál es la fecha de entrega de tu pedido? ^JJ
+11573,"[CUSTOMER] Olá, Cassiel. Sem compartilhar informações pessoais ou da sua conta, me diga, como posso ajudar você? ^CR"
+11576,"[CUSTOMER] Recomendo entrar em contato diretamente com o SAC da KDP, para eles conferirem o seu caso: ^CR"
+11578,"[CUSTOMER] I'm afraid, we'll not be able to take any action on your account once it is put on hold. Request you to wait for the email. ^HD"
+11581,"[CUSTOMER] Further, we wouldn't be able to offer any additional insight/ info in this regard. Appreciate your understanding. (3/3) ^SV"
+11582,"[CUSTOMER] As this is account related, our specialist team are the best ones to assist you. (2/3) ^SV"
+11583,"[CUSTOMER] I get your concern, Hussain. As requested, please reply to the correspondence sent by our specialist team. (1/3) ^SV"
+11589,"[CUSTOMER] Hi, you should have received an email with an update over your account. We will not be check this for you. ^RW"
+11592,[CUSTOMER] Oh no! Let's talk about this in real time. Please call or chat with us here: ^BA
+11595,"[CUSTOMER] Just to confirm, what's the current tracking information listed for your order here: ^HC"
+11596,[CUSTOMER] I'm so sorry for the wait! What does tracking information say here: ^MH
+11599,"[CUSTOMER] Happy Halloween to this very, very good puppy! I'd be lion if I said he didn't have my heart! 😍🦁^BL"
+11601,[CUSTOMER] Oh no! Have you checked the mailbox? These steps may help locate the order: Keep us posted! ^BN
+11604,[CUSTOMER] I'm sorry those steps didn't help! Who was the carrier for this order? You can check here: ^BL
+11606,"[CUSTOMER] I'd like someone from my team to check into this. When you can, please drop your details here: ^BL"
+11616,"[CUSTOMER] Hi, not Hugh:) Who is the carrier for this delivery? You can find this information here: ^LM"
+11618,"[CUSTOMER] Hey, Hugh! Are you having trouble receiving a recent order? ^LA"
+11622,[CUSTOMER] Please provide your details here: and my team will escalate to Amazon Logistics. ^EZ
+11625,[CUSTOMER] Hola. Lamento los inconvenientes. Aquí podrás ver las opciones de reembolso o reemplazo disponibles ^CR
+11973,[CUSTOMER] I'm so sorry we've let you down. Please reach us here: so we can explore options with you. ^LL
+11975,[CUSTOMER] We do not want this to happen and are eager to help. Reach out to us for more assistance here: ^LM
+11978,[CUSTOMER] Oh no! Have we missed the estimated delivery date showing in your order confirmation e-mail? We're here to help! ^ML
+11980,"[CUSTOMER] I understand your concern, Nihal. Could you confirm if you've report this to our team using the link provided earlier? ^HD"
+11983,[CUSTOMER] Sorry about the delay with the order. Please share your details here: and we'll check this. ^KA
+11985,[CUSTOMER] details through the link provided above so that we can look into the issue. 2/2 ^SH
+11986,[CUSTOMER] Twitter is a social media platform we'll not be able to access any of your account/order details. Please share your 1/2 ^SH
+12493,"[CUSTOMER] I'm so sorry about that, Alexis. When you can, please reach us here so we can better assist: ^BL"
+12497,"[CUSTOMER] I'm sorry about the link. For a faster response, contact us by phone here: without signing in. ^BE"
+12499,[CUSTOMER] Yes. Our main customer service line is open 24 hours a day. ^LJ
+12503,"[CUSTOMER] We'd like to help in real-time! When you have a free moment, please reach out to us here: ^HM"
+12506,"[CUSTOMER] From the Kindle app, go to More, tap on Settings, tap on Push notifications to enable or disable the notifications. ^SE"
+12508,[CUSTOMER] That does seem excessive. Help us improve by leaving order specific packaging feedback here: ^EZ
+12510,[CUSTOMER] from our sellers. You may also visit this link: for more information. 2/2 ^MK
+12512,[CUSTOMER] The prices on our website are determined by our sellers. And we keep updating our prices as per the data we receive 1/2 ^MK
+12513,"[CUSTOMER] If you had replied to the email, you must've received a correspondence from us, Darshan. Please check. ^HD"
+12516,[CUSTOMER] If you've already replied to the email sent by our team. I'm sure our team will reach out to you soon with an update. ^VM
+12518,"[CUSTOMER] We're currently working on your issue, we'll contact you soon. Keep an eye on your mailbox. ^ZH"
+12520,"[CUSTOMER] Apologies, thank you for replying to the email. We'll get back on this soon. Appreciate your patience. ^BS"
+12523,"[CUSTOMER] I do understand, however, please revert to the same email so that we can get this sorted. ^HN"
+12526,[CUSTOMER] Sorry for the trouble you've had. Kindly reply to the email you've received from our team &amp; we'll look into this further.^MM
+12528,[CUSTOMER] Sorry for the stretch. Please reply to the email you've received from our Social media team and we'll get back. ^KA
+12530,[CUSTOMER] email ID. Kindly check it here: 2/2 ^RS
+12533,[CUSTOMER] you with an update at the earliest. (2/2)^AU
+12537,[CUSTOMER] Thanks for writing back to us. Our specialist team will contact you with an update on your issue soon. Please wait. ^ZH
+12539,"[CUSTOMER] As requested, please respond on the requested email and our specialist team will reach out to you. ^HK"
+12542,"[CUSTOMER] We've sent a correspondence to your registered email address, request you to check the same. ^SH"
+12546,[CUSTOMER] We're working on your concern. We'll reach out to you soon and update. ^RI
+13129,"[CUSTOMER] If you've replied to the email sent by us, we'll check and get back to you with an update shortly. ^NR"
+13133,"[CUSTOMER] Sorry to know about the delivery issue. As you've confirmed sharing your details, you should've received an email from (1/2)^KA"
+13134,"[CUSTOMER] our team. Please check and reply, we'll get back. You may check the email here: (2/2) ^KA"
+13136,[CUSTOMER] Please reply to the email received from our team. We will check and connect with you accordingly. ^RW
+13139,[CUSTOMER] Sorry about the order cancellation. Please reply to the email you've received from our Social media team and we'll get back. ^KA
+13141,"[CUSTOMER] Sorry for the trouble, Manak. Please resubmit the details here: and we'll have this checked. ^KA"
+13143,[CUSTOMER] Thanks for submitting the details. We've received your details and we'll reach out to you soon. ^GK
+13145,[CUSTOMER] That's unusual. Could you please revert to the email with further queries on this? I'll like to have a look into it. ^AB
+13147,[CUSTOMER] We're unable to arrange a callback for you over Twitter. Please make a request by responding to the email and we'll oblige. ^AB
+13150,[CUSTOMER] Thanks for replying. We'll get in touch with you soon. Appreciate your understanding. ^AK
+13151,[CUSTOMER] Could you please confirm if you have replied to our email? ^MK
+13153,"[CUSTOMER] Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. (2/2) ^SV"
+13156,[CUSTOMER] I'm sorry about the trouble Manak. Kindly reply to the email sent by our team for further assistance. ^GD
+13158,[CUSTOMER] you've received from our team and we will get back to you with the latest update on your issue. (2/2)^SQ
+13161,"[CUSTOMER] Sorry about the bad experience, Manak. I'll be sure to pass along your feedback internally. ^MS"
+13163,[CUSTOMER] We're following up on this. We'll check this and update you. ^SG
+13165,[CUSTOMER] We've sent the correspondence to your registered email ID. Kindly check it here: ^GK
+13166,[CUSTOMER] Sorry for the inconvenience. Please share your details here: and I'll get in touch with you. ^MK
+13168,[CUSTOMER] Are you currently waiting on the delivery of a delayed order? ^QJ
+13171,"[CUSTOMER] I'm very sorry about this experience, Robert. We'd like to help! Could you tell us more details about what's going on? ^HM"
+13174,[CUSTOMER] Parece um livro interessante demais. Espero que curta muito da leitura dele! :D Abraço. ^CR
+13176,"[CUSTOMER] Que notícia boa, Luiz! Fiquei curioso... O que contém esse pacote? 🤔 ^CR"
+13178,"[CUSTOMER] I'm very sorry to hear that, J! Have you had trouble with a recent order/delivery? ^HM"
+13181,"[CUSTOMER] We'd like to take a closer look. When you can, please provide us some more information here: ^TN"
+13182,[CUSTOMER] I'm sorry you've had to invest so much time in this! Were we able to help resolve the issue on the last call? ^TL
+13184,[CUSTOMER] Was any information provided to you in the phone conversation? Who was the carrier as listed here: ^CH
+13187,"[CUSTOMER] Hi, Reece! I'm sorry about the broken item. You can check into options here: ^BL"
+13457,"[CUSTOMER] Nein, ^TG ist schnippig. Alexa ist lieb und nett. Sie ist sehr gut! Und ich geh jetzt mal lieber in Deckung! 😏 ^UK"
+13459,"[CUSTOMER] 😃... das wäre toll! Soweit ist sie aber noch nicht. Wird eher in die Richtung ""Hey, deine Wäsche ist fertig! Zack zack, aufhängen!"" gehen. ^TG"
+13557,[CUSTOMER] I'm sorry there was a delay! Let us know if your package doesn't arrive by November 2. Please keep us posted on its delivery. ^TN
+13559,"[CUSTOMER] I'm sorry this happened, Davis! Please provide carrier feedback here about this order: ^SH"
+13561,[CUSTOMER] Thanks for reaching out to us! You will be charged for your order once it ships out. ^FJ
+13564,[CUSTOMER] Can you confirm the delivery date provided in your order confirmation email? It can be viewed here: ^LA
+13566,[CUSTOMER] I'm sorry for the delay in delivery. Could you let us know from which website did you make the purchase? ^RW
+13568,[CUSTOMER] Thanks for bringing this to our attention. I've escalated this to our website team. ^SJ
+13572,"[CUSTOMER] (2/2) Alternately, if you'd like us to verify in real-time you can reach us here: ^EB"
+13574,[CUSTOMER] Thank you for bringing this to our attention! I understand the concern. You can report this here: (1/2)
+13863,"[CUSTOMER] Apologies for the experience, Vijay. Please reply to the email sent by our team. We'll help you with alternatives. ^SV"
+13867,"[CUSTOMER] Sorry for the disappointment. Kindly reply to the email you've received from our team, we'll check and get back. ^KA"
+13869,"[CUSTOMER] In this case, request you to wait and you shall receive an reply from our team soon. ^SH"
+13871,[CUSTOMER] insight on this issue. 2/2 ^SH
+13872,[CUSTOMER] The resolution provided over the email is the best we can offer. I'm sorry we'll not be able to provide any further 1/2 ^SH
+13874,"[CUSTOMER] Thank you for letting us know, we'll get back to you soon with an update. ^BS"
+13877,[CUSTOMER] Kindly share your details in the link given earlier and we'll be sure to help you in getting this issue resolved. ^ZH
+13879,[CUSTOMER] Kindly share your details here: and I'll contact you with an update on this. ^GS
+13881,[CUSTOMER] Apologies for the inconvenience with policy constraint. We'll be able to assist you once service denial letter is received.^GS
+13883,[CUSTOMER] I get your concern.We wouldn't be able to work on the issue until we receive a service denial letter from the manufacturer.^NS
+13885,"[CUSTOMER] If the manufacturer refuses to honor warranty on a device, you shall receive a service denial letter for the same. ^HK"
+13889,[CUSTOMER] without a service denial letter. Kindly try visiting your nearest service center to report it and keep us posted. 2/2 ^AB
+13894,[CUSTOMER] a document with the details as mentioned in the email for us to help you. Appreciate your understanding. (2/2) ^ZH
+13899,[CUSTOMER] You would only be able to confirm gift card balances on the account it is redeemed on. ^JP
+13901,[CUSTOMER] I'm so sorry! We'd like to look into our available options. Please reach us here: ^AG
+13904,[CUSTOMER] Hola Raúl. Lamento saber de esto.Puedes contactar nuestro Servicio al Cliente en este enlace: ^JJ
+13906,"[CUSTOMER] Sorry for this trouble. If the details were shared, you must've received a correspondence from us. Please check and reply. ^HD"
+13908,[CUSTOMER] We have received your details. We are working on it and will get back to you with an update at the earliest. ^HR
+13910,"[CUSTOMER] don't provide your order details, as we consider it to be personal information. Our Twitter page is public. 4/4​ ^EM"
+13915,"[CUSTOMER] Oh no, Kathleen! We want to help. Is there an updated delivery date showing here: ^LA"
+13920,"[CUSTOMER] I'm sorry for the inconvenience. When you reached out to us, what options or insight did we provide? ^GM"
+13923,[CUSTOMER] Which carrier was assigned to deliver your package today? ^TN
+13925,[CUSTOMER] Did we ask you to wait a certain date before we could offer alternative options? ^EZ
+13928,"[CUSTOMER] Late order usually arrive the next business day. If your order hasn't arrived by 8:00 PM tomorrow, please let us know. ^LR"
+14010,[CUSTOMER] Please provide your information in the link FR provided and we'll have a team member look into this personally and reach out to you. I'm sorry for any inconvenience. ^HS
+14013,"[CUSTOMER] We'll ask customers to leave their totes out for pickup. However, they shouldn't be left for 10 or more days awaiting pickup. For security, we're unable to DM personal details. Once we receive your information at the link we've referenced, we can help sort this. ^RA"
+14015,[CUSTOMER] We cannot accommodate this request via Twitter. Please send us your details using the link provided by FR. ^GR
+14018,[CUSTOMER] I would like to have a team member look into getting the totes picked up for you! Please add your details here: so we can help out with this! Keep us updated on the status! ^FR
+14021,[CUSTOMER] I'm sorry for the poor experience! Can you please tell us more about the problem you're experiencing with tote pick-up? ^WT
+14279,[CUSTOMER] I'm so sorry for the frustration! What was the date given in the original confirmation e-mail: ^DG
+14282,[CUSTOMER] I can understand your frustration. Please reach out to us here to go over available options: ^CL
+14284,[CUSTOMER] I'm sorry you were charged unexpectedly! Please reach out to Amazon Pay for available options here: ^JP
+14288,"[CUSTOMER] I so sorry for the repeated delivery problems! When you contacted UPS, what options were provided? Please keep us posted. ^CC"
+14290,[CUSTOMER] I'm sorry! Was it shipped by Amazon or a third-party seller as seen here: ^SE
+14292,[CUSTOMER] I'm sorry about this experience! Have we missed our initial delivery date promised in Your Orders: ^EB
+14295,[CUSTOMER] I certainly understand your frustration! Who was the carrier for these orders? Please check here: ^BE
+14299,[CUSTOMER] We'd like to take a closer look to see what we can do. Please reach out with more information here: ^DG
+14301,[CUSTOMER] I'm sorry for the trouble! We'd like to review available options with you. Please reach out to us here: ^LJ
+14844,[CUSTOMER] We're always looking for ways to improve! Please send feedback/requests following the steps here: ^SH
+14852,"[CUSTOMER] Please don't provide your order details, we consider it to be personal information. Our page is visible to the public. ^SC"
+14856,"[CUSTOMER] Thank you for sharing your details, Dhinesh. We'll check your concern and reach you soon. ^VG"
+14857,[CUSTOMER] Apologies for the ordeal.I’d like to help you; please fill this form: and I’ll contact you soon. ^SC
+15138,[CUSTOMER] Oh no! I'm so sorry we've let you down! Were we able to offer any options when you reached out? ^JO
+15267,[CUSTOMER] Please fill in your details using the link: and I'll get in touch with you soon. ^AK (2/2)
+15271,"[CUSTOMER] Please share your details in the link provided above, we'll check the issue and assist you accordingly. (2/2) ^KA"
+15274,[CUSTOMER] I'd like to help. Please write to us here: and I'll reach out to you. ^SA
+15276,[CUSTOMER] Apologies. We'd like to check this for you. Kindly contact us here :
+15278,"[CUSTOMER] Please don’t provide your order details, we consider them as personal information. Our Twitter page is visible to public. ^VM"
+15280,[CUSTOMER] That's strange. Let us help you out here. Please drop your details here: (1/2) ^VM
+15273,[CUSTOMER] Sorry to know about the delay with the order. It isn't possible for us to view your order/account via Twitter. (1/2) ^KA
+15283,[CUSTOMER] Please don’t provide your order details as we consider them to be personal info. Our Twitter page is visible to public. ^JC
+15284,[CUSTOMER] We'll not be able to check the details of your order via Twitter. Please fill in the same in the link provided. ^JC
+15281,[CUSTOMER] so that we can get in touch with you. (2/2) ^VM
+15269,[CUSTOMER] Apologies for the trouble with the delivery of the order. I'd like to take a closer look at this. ^AK (1/2)
+15285,[CUSTOMER] I'm sorry your suit didn't arrive before Halloween. Did we miss the delivery date shown here: ^EA
+15287,[CUSTOMER] : and we'll look into this for you. (2/2) ^VM
+15289,[CUSTOMER] We understand you are yet to receive your order. Let us investigate this further. Please reach us via (1/2) ^VM
+15295,[CUSTOMER] That's quite a comment. Could you let us know if you have received an email from our team here ^VM
+15298,[CUSTOMER] Sorry to know about that. Kindly reply to the email and we'll get in touch with an update. Appreciate your patience. ^AK
+15300,[CUSTOMER] Thank you for confirming. You should hear an update from us soon. Keep an eye on your mailbox. ^MP
+15301,[CUSTOMER] Thanks for the heads up! We'll check this and get back with an update soon. ^YP
+15303,"[CUSTOMER] We'd like to investigate this, please share your details here: with detailed info. ^HA"
+15305,[CUSTOMER] I'm sorry for the inconvenience. Please see here: for more info on accessing your invoice. ^LM
+15441,[CUSTOMER] Please let us know if doesn't arrive by Friday! We'd like to help! ^ZW
+15445,"[CUSTOMER] While we can't access order or account details through social media, we'd still like to help! Please reach us directly via phone or chat so we can investigate: ^CS"
+15446,[CUSTOMER] I'm sorry for the delay! Have we provided an updated delivery estimate for your order? Please check here: ^MB
+15666,[CUSTOMER] The results will be announced soon. Kindly stay tuned for updates. ^AK
+15670,[CUSTOMER] I'm sorry your Kindle hasn't arrived! Can you tell us the current tracking status? ^EZ
+15673,"[CUSTOMER] Oh my! Just to clarify, can you tell us who the carrier of this order is? ^AL"
+15675,[CUSTOMER] We'd like to look further into this. Please click the link and fill out the secure form: ^EM
+15677,[CUSTOMER] get back to you on this. 2/2 ^SH
+15679,[CUSTOMER] Sorry to know the shipment hasn't been delivered yet. Please reply to the email received from us and we shall 1/2 ^SH
+15680,"[CUSTOMER] I'm so sorry for the account trouble! Have you received an e-mail regarding this issue? If so, please reply to it for more info. ^CC"
+15684,"[CUSTOMER] number. Also, please don't provide order details, we consider it to be personal info. Our page is visible to the public.(2/2)^SF"
+15687,[CUSTOMER] Please share your detail here: and I'll be glad to help you with an update about the refund. ^KA
+15689,[CUSTOMER] You should have received a correspondence from our social media team. Kindly check here: and reply. ^MN
+15691,[CUSTOMER] Sorry for the delay. Have you received the refund reference number? ^NS
+15690,[CUSTOMER] This being a social platform we can not access your account info. Please confirm if you've received the refund reference(1/2)^SF
+15693,"[CUSTOMER] Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. ^AK 3/3"
+15697,[CUSTOMER] Sorry for the delay in pickup. Kindly contact us here: and we'll get the pick up done. ^SY
+15699,[CUSTOMER] You may track your refunds using the link: Please keep us posted. ^GS
+15695,[CUSTOMER] Please fill in your details using the link: and I'll get in touch with you soon. ^AK (2/3)
+15702,[CUSTOMER] Thanks for the update. If you've filled in your details our teams will reach out to you soon. ^VM
+15703,[CUSTOMER] I'm sorry for the frustration. Who was the carrier for this delivery? You can check here: ^EA
+15696,[CUSTOMER] Apologies for the trouble with the pick up of the order. I'd like to take a closer look at this. ^AK (1/3)
+15705,[CUSTOMER] We'd like to help you with the cash back. Kindly get in touch with our support team here: ^AK
+15708,[CUSTOMER] I'm very sorry for the delay. Please keep us posted on the arrival. We want to make sure you get your order. ^TN
+16096,"[CUSTOMER] The link to the item can be tweeted to us here, or reviewed here: ^QJ"
+16098,[CUSTOMER] We recommend removing this photo as it contains personal info. Will you share a link to this item so we can look into this? ^SY
+16100,[CUSTOMER] Thanks for keeping us posted. I'll pass along your comments to our team and we'll work on this. ^GK
+16102,[CUSTOMER] get back to you. Please don’t provide your details as we consider them to be personal information. Our page is public. 2/2 ^SH
+16104,[CUSTOMER] I'd like to look into the issue and set things right. Please provide your details here: and 1/2 ^SH
+16108,[CUSTOMER] I'm sorry for any inconvenience! Can you tell us when your order is due to arrive? ^EZ
+16111,[CUSTOMER] Orders can ship at any time; once the order has been processed it will be assigned a tracking number. ^LR
+16113,[CUSTOMER] Please keep us posted as we want to make sure your order arrives! ^AG
+16114,[CUSTOMER] I'm sorry about the experience. Kindly share your details here: and we'll check. ^GK
+16116,[CUSTOMER] time frame has passed and you haven't received any update or if you aren't satisfied with seller's reply then you may file 2/n ^SH
+16118,[CUSTOMER] the A-z guarantee claim. You can know more about A-z guarantee claim here: 3/3 ^SH
+16119,"[CUSTOMER] Sorry to know the seller hasn't responded to your query. Generally, the seller's respond with in 2 business days if this 1/n ^SH"
+16120,[CUSTOMER] here: and I’ll contact you soon. 2/2 ^AH
+16124,[CUSTOMER] Seems like you've had an unpleasant experience. Could you elaborate so that we could assist you accordingly? ^ST
+16123,"[CUSTOMER] I'm sorry for the unpleasant experience, I'd like to look into this closely. Kindly drop in your details 1/2 ^AH"
+16106,[CUSTOMER] I'm sorry to know about the conflicting tracking update. Have you reported this to our team here: ? ^GK
+16417,[CUSTOMER] I'm sorry you still haven't received the order. Was there any update on the tracking here: ^LA
+16421,[CUSTOMER] Who is the courier shown on the tracking info? Have you contacted the courier? ^LJ
+16423,"[CUSTOMER] Please let us know if you do not receive your order, or an update, today so we may contact the carrier on your behalf. ^WM"
+16425,"[CUSTOMER] If Alexa doesn't discover your smart home device, here are some solutions to try: Hope this helps! ^NN"
+16427,[CUSTOMER] I'm sorry it's been delayed. Please send details about this order here: ^LH
+16429,[CUSTOMER] Sorry to know about the delivery issue. Did we happen to miss estimate as mentioned here: ?^KA
+16434,[CUSTOMER] so that we can get in touch with you. (2/2) ^VM
+16435,[CUSTOMER] I'm sorry to hear that. Let us investigate this further. Please drop your details here: (1/2) ^VM
+16438,"[CUSTOMER] Please don't provide your order details, as we consider it to be personal information. Our Twitter page is public.​ ^RW"
+16439,[CUSTOMER] We cannot check your order details here. Kindly fill in the form for further assistance on it. ^RW
+16440,[CUSTOMER] I apologize that we missed the mark. What is the most recent tracking update? You can find that here: ^BA
+16445,[CUSTOMER] Unforeseen circumstances can cause delays and we appreciate your patience while we are working to get your packages delivered. ^TN
+16450,[CUSTOMER] I'm so sorry your flowers were damaged! Please reach us here: so we can find available options. ^NS
+16452,[CUSTOMER] where we highlight the latest movies and TV shows we have available. (2/2)^SF
+16455,[CUSTOMER] We will continue to add new content. Keeping checking (1/2)^SF
+16460,[CUSTOMER] I'm sorry for the unexpected package! Please reach us here: for available options. ^BT
+16462,[CUSTOMER] it to be personal information. Our page is visible to the public. 3/3^AR
+16465,[CUSTOMER] That's a great question! You can learn more on how to turn on Audio Descriptions here: ^SE
+16468,[CUSTOMER] I'm sorry the link didn't work. You can view the list of Audio Descriptions by clicking here: ^AY
+16469,[CUSTOMER] and we'll look into this for you. (2/2) ^VM
+16463,"[CUSTOMER] form: . I'll look into it right away. Please don't provide your order details, we consider 2/3^AR"
+16464,[CUSTOMER] I'm sorry you've not received your order. I'd like to investigate this and assist you with the issue. Please fill this 1/3 ^AR
+16472,[CUSTOMER] I'm sorry for the trouble! You can dial +1-206-266-2992 to reach us internationally. ^BT
+16471,[CUSTOMER] That's strange. I'm sorry for the experience. Let us check this out for you. Please reach us via: (1/2) ^VM
+16475,[CUSTOMER] credentials. Click on Settings and set country to India. 2/2 ^SH
+16478,[CUSTOMER] Please connect with our support team here: for further assistance on it. ^RW
+16479,[CUSTOMER] Request you to change the country settings. Please click here: Login with your amazon 1/2 ^SH
+16755,"[CUSTOMER] This isn't how we want you to feel. We'd like to help, if possible. Please let us know more about what's going. ^BH"
+16759,"[CUSTOMER] I'm sorry for the trouble. Generally, the bank can issue a refund to the new active card on file. Please keep us updated. ^LR"
+16761,[CUSTOMER] I'm sorry for the poor experience! Will you tell us more about the issue and what info or options we were able to provide? ^BN
+16765,"[CUSTOMER] We can't access your account via Twitter. Without providing personal info, will you please tell us what's going on? ^TN"
+16772,[CUSTOMER] I'd like to have a member of my team look into this with you! Please submit your information here: ^ME
+16773,"[CUSTOMER] Echo lets you play music from services like Amazon Prime Music, Saavn and TuneIn. ^GK"
+16775,[CUSTOMER] You're most welcome. Glad to know that refund has been credited. Have a great day ahead! ^AR
+16777,"[CUSTOMER] Apologies. I understand waiting could be tiresome but rest assured, the concerned team is working on a resolution for you. ^MK"
+16779,[CUSTOMER] Request you to check for our response : ^SK
+16781,[CUSTOMER] Did you receive our email on your revert? ^HK
+16783,"[CUSTOMER] As you have provided your details, we have our team working on your issue, Gautam. (1/2)^SF"
+16786,[CUSTOMER] We are right on it! We'll get back to you soon. ^AG
+16789,[CUSTOMER] That's strange. Kindly write back to the email received and we'll check this out for you. ^VM
+16791,"[CUSTOMER] You must have received a correspondence to your registered email address, request you to check the same. ^SH"
+16793,[CUSTOMER] Apologies for the bad experience. Thanks for sharing your details. We'll get in touch with you. Appreciate your patience. ^AK
+16795,[CUSTOMER] I'm sorry for the trouble. Please fill this form: and we’ll contact you at the earliest. ^AU
+16797,[CUSTOMER] We have sent a correspondence to your registered email ID. Please check and reply.^AH
+16800,[CUSTOMER] Sorry about that Aadil. Please respond to this email and we'll check this for you. ^HN
+16802,[CUSTOMER] Please don’t provide your details as we consider them to be personal information. Our Twitter page is visible to public. ^YP
+16806,[CUSTOMER] Could you please let us know if you had received any email stating the package was going to be shipped by 7th ? ^KS
+16807,"[CUSTOMER] That is unusual, Aadil. Looking at the image, I see that the package will be delivered between 3rd to 6th November. ^KS 1/2"
+16809,[CUSTOMER] details here: and I'll get back to you. (3/3) ^KA
+16814,"[CUSTOMER] Aadil, please reply to the email you've received from our team so that we can assist you accordingly. ^MS"
+16816,"[CUSTOMER] In that case, please fill in the form again here: and we'll reach out to you. ^VN"
+16818,[CUSTOMER] Our team has sent you a correspondence. Kindly check it here: ^AP
+16810,[CUSTOMER] account via Twitter. Please reply to the email you've received from our team or kindly resubmit your (2/3) ^KA
+16811,[CUSTOMER] Sorry to know about the delay with the order. I understand you wish to cancel the order. We can't gain access to your (1/3) ^KA
+16803,[CUSTOMER] with your preference and we'll get back. (2/2)^YP
+16804,"[CUSTOMER] I'm afraid we haven't received your write-back to us, Aadil. Please respond to our latest correspondence (1/2)"
+16819,"[CUSTOMER] I'd like to take a closer look into this, please share your details here: ^AG"
+16821,[CUSTOMER] Sorry for the delay. I'll be sure to pass on your feedback. Kindly wait until the mentioned time frame. Do keep us posted. ^AK
+16823,[CUSTOMER] Apologies for the delay. Have you reported this to our support team here: ^RB
+16825,"[CUSTOMER] Two-Day Shipping refers to transit time, in business days, once shipped. Did we miss our mark? ^BE"
+16828,[CUSTOMER] What was the estimated delivery date provided in the order confirmation e-mail? ^MJ
+16830,[CUSTOMER] My apologies. What is the latest update on the tracking?: ^PK
+16832,"[CUSTOMER] Hey, get in touch with us here: so we can help you out ^KM"
+16833,[CUSTOMER] We would be unable to reach out to you from here. Kindly write back to the email sent by our team (1/2) ^VM
+16836,[CUSTOMER] Apologies. Request you to reply to our email correspondence for further assistance and we'll look into this. ^MK
+16838,"[CUSTOMER] sent by our team and request for a phone call. Once you do so, our team will get back to you through phone soon. 2/2 ^RS"
+16843,[CUSTOMER] further assistance as we wouldn't have the access to your account from here. Appreciate your understanding. 2/2 ^NK
+16846,[CUSTOMER] Kindly revert to our email correspondence with further query on this and we'll be happy to take it over from there. ^AB
+16848,[CUSTOMER] We've made a note of your comments and passed it along to the concerned team. We'd appreciate your understanding. ^MA
+16850,"[CUSTOMER] As informed in the email, please be assured that appropriate actions will be taken for improvement. ^NR"
+16852,"[CUSTOMER] As you've shared your details, we'll work on it and get back to you at the earliest. ^HN"
+16854,[CUSTOMER] Please share your details in the above link Anurag and we'll check this for you. ^HN
+16856,[CUSTOMER] email correspondence from our team. Kindly check the same and revert. 2/2 ^MM
+16861,[CUSTOMER] I'm sure our team would reach out to you soon. (2/2) ^VM
+16864,"[CUSTOMER] Please don't provide your order details, we consider it to be personal information. Our page is visible to the public.^SF"
+16869,"[CUSTOMER] Apologies for the situation, Anurag. Please share your details here: I'll reach &amp; assist. ^SV"
+16872,"[CUSTOMER] Be assured, we've shared your comments with internal teams for review and to improve our services. (2/2) ^SV"
+16875,"[CUSTOMER] However, you need to adhere to guidelines here: to post review. (2/2) ^SV"
+16879,[CUSTOMER] Please don't provide your order details as we consider it personal information. Our twitter page is visible to public. ^SQ
+16835,[CUSTOMER] requesting for a call-back and we'll reach out to you soon. (2/2) ^VM
+16886,[CUSTOMER] We have emailed you here: Kindly check &amp; reply to it for further assistance.^SY
+16891,[CUSTOMER] I'm sorry about the disappointment. I'll be sure to pass your feedback to the concerned team internally. ^SG
+16893,"[CUSTOMER] I understand your concern, Anurag. Please reply to the email you've received from us and I'll get back to you. ^HD"
+17181,[CUSTOMER] I'm sorry you didn't receive your order. Did our customer service agent provide a solution for you? ^SE
+17185,[CUSTOMER] Please connect with our support team here: for further assistance on it. ^RW
+17188,"[CUSTOMER] Also, please don't provide your contact details as its personal info. Our Twitter page is visible to public. 2/2 ^AB"
+17191,"[CUSTOMER] Due to which we do not have an option to call you back, please use the link provided earlier to request a call back. (2/2) ^SI"
+17192,[CUSTOMER] Twitter being a public platform we do not have access to your order details. (1/2) ^SI
+17194,[CUSTOMER] further assistance. Appreciate your understanding. (2/2) ^KA
+17197,[CUSTOMER] out to our team using the link shared earlier. (2/2) ^GK
+17201,[CUSTOMER] provide your details here: &amp; we'll get this sorted.(2/2)^SF
+17202,[CUSTOMER] I'm sorry for the unpleasant experience. We'd like to change it. Please (1/2)^SF
+17204,[CUSTOMER] to you. Please don’t provide your details as we consider them to be personal information. Our Twitter page is public. 2/2 ^SH
+17205,"[CUSTOMER] We'd like to assist you with the issue, kindly provide your details through the link provided above and we'll get back 1/2 ^SH"
+17198,"[CUSTOMER] I get your disappointment. However, we'll not be able to contact you over Twitter. Kindly reach (1/2) ^GK"
+17195,"[CUSTOMER] Sorry for the disappointment. As mentioned earlier, please reach out to us using the link provided earlier for (1/2) ^KA"
+17189,[CUSTOMER] We're unable to arrange a callback for you over Twitter. Please make a request using the link above and we'll oblige. 1/2 ^AB
+17206,[CUSTOMER] We will consider this as feedback and ensure to pass it on internally for improvements. ^RW
+17208,"[CUSTOMER] If the factors do not provide the feasibility of a guaranteed delivery, the option will not be available. (2/2) ^ZH"
+17211,"[CUSTOMER] Could you please confirm, if we've missed the estimated delivery date? ^AG"
+17213,[CUSTOMER] Did we happen to miss the estimated delivery date? ^AG
+17215,[CUSTOMER] We're sorry for the delay in the delivery of your order. Please contact us here: and we'll help you ^ZH
+17219,[CUSTOMER] select 'More order issues' &gt; choose from chat/phone/email we'll be glad to help. (3/3) ^KA
+17223,[CUSTOMER] Please add an email address to your account and then continue to fill the form. Appreciate your patience. ^RW
+17226,[CUSTOMER] I apologize for this. Request you to share the details : and we'll look into it. ^SK
+17228,[CUSTOMER] Please log into your account using your mobile number and request a call back from us. We'll reach out to you and help. ^HK
+17230,[CUSTOMER] Please write to us from here: from the account you desire to close and our team will assist. ^HR
+17224,"[CUSTOMER] &gt; Login to your Amazon.in account &gt; Under 'Tell us more about your issue', (2/3) ^KA"
+17232,"[CUSTOMER] We're unable to verify any detail over Twitter, Anjana. Please respond to our email so we could take it from there. ^JC"
+17235,[CUSTOMER] Thank you for confirming. You should hear an update from us soon. Keep an eye on your mailbox. ^MP
+17236,[CUSTOMER] We would love to help in any way. Please provide your feedback here for review: ^SH
+17225,"[CUSTOMER] Sorry for the trouble, Asmita. Please follow the path mentioned here to connect with us: Click on the link here: (1/3) ^KA"
+17238,[CUSTOMER] I'm sorry for the trouble. Could you tell us more about the issue you're facing while adding amount to your pay balance? ^GK
+17241,[CUSTOMER] I'm sorry for the trouble. Please submit your details here: and we'll check right away. ^RW
+17243,[CUSTOMER] Thanks. We'll check and revert at the earliest. ^HK
+17245,[CUSTOMER] You must have received a response here: Please let us know if you do not see the email here. ^KS
+17247,[CUSTOMER] I'm sorry for the stretch. We're working on this and we'll reach out to you soon with an update. Appreciate your cooperation. ^KH
+17249,[CUSTOMER] and proceed as per the suggestion. ^SG(2/2)
+17250,[CUSTOMER] I see that we've sent you a correspondence. Kindly check the same here: (1/2)
+17252,"[CUSTOMER] Twitter being a social platform, we wouldn't be able to check the account info here. Kindly reply to the email sent by us. ^PR"
+17253,"[CUSTOMER] You can ask Alexa, and it would play the song for you :) ^KA"
+17255,[CUSTOMER] I'm sorry about that. Could you confirm sharing your details in the link shared earlier? ^GK
+17257,"[CUSTOMER] I get you're upset. However, we'd like to get this sorted out, please share the details and we'll reach out to you. ^MS"
+17259,[CUSTOMER] I’m sorry for the hassle. Please drop in your details here: We will look into it. ^SB
+17261,"[CUSTOMER] Apologies. Kindly let us know, where did we go wrong. We would like to make things right for you. ^CB"
+17264,[CUSTOMER] We want to help but we need more information. Can you tell us more about what device you're using? ^EA
+17267,[CUSTOMER] I'm sorry to hear this. Please try these tips and let us know if it improves: ^BH
+17633,[CUSTOMER] know more prime benefits here: 2/2 ^SH
+17636,[CUSTOMER] I'd like to take a closer look into it. Please fill in this form: and I'll revert shortly. ^AB
+17638,[CUSTOMER] Was a pick up arranged on your order or were you asked to self-return it? Please tell us more. ^HK
+17640,[CUSTOMER] Sorry for the trouble while raising a return request. May I know if you have been asked to self return the item? ^SH
+17635,"[CUSTOMER] Prime customers will have benefits like Prime Delivery Benefits, Prime Early and Exclusive Access Deals. You can 1/2 ^SH"
+17643,"[CUSTOMER] (2/2) For account security reasons, we recommend that you delete any account sensitive information from Twitter. Thank you. ^SE"
+17646,"[CUSTOMER] to the payment page that you have in your 2nd screenshot? We want to help in the best way possible, so pls let us know! ^KN 2/2"
+17651,[CUSTOMER] You may refer here: for details on refund for return shipping charges. Hope this helps! 3/3 ^AB
+17657,[CUSTOMER] to our team internally to work on it. 2/2 ^SB
+17660,[CUSTOMER] Please connect with us here: for further assistance. ^KA
+17662,[CUSTOMER] You're welcome. Appreciate your understanding. Do keep us posted for any further assistance and we'll be glad to hep you. ^MK
+17658,[CUSTOMER] I'm sorry you had an unpleasant experience regarding the return. I would pass on your comments as feedback 1/2 ^SB
+17645,"[CUSTOMER] (1/2) We're here to help! When you have the time, please reach us by phone/chat here: Thanks. ^SE"
+17663,"[CUSTOMER] we were unable to arrange a return, hence we requested you to cooperate and self-return the order for a refund. 2/3 ^AB"
+17664,[CUSTOMER] Apologies for any trouble. Wherever possible we do offer a return pickup to reduce customer effort. In this case as 1/3 ^AB
+17668,[CUSTOMER] You'll not be able to connect the Echo to your smart TV. ^SH
+17670,[CUSTOMER] I'm sorry about the error you're seeing! Please try uninstalling and reinstalling the app. Let us know how it goes. ^JP
+17673,[CUSTOMER] Could you please elaborate your concern about the fulfillment center so that I can assist you accordingly?^SF
+17679,[CUSTOMER] Please share your details here: and I'll reach out to you. (2/2) ^KA
+17680,[CUSTOMER] This doesn't seem to be right. Apologies for the delivery issue. This isn't what we intended. (1/2) ^KA
+17681,"[CUSTOMER] Please don't provide your order details, we consider it to be personal information. Our page is visible to the public. ^KA"
+17683,[CUSTOMER] We'd like to help with that. Kindly drop in your details using the link provided above and we'll reach out to you. ^AB
+17684,"[CUSTOMER] When you sign up for a Prime free trial, we send an authorization to your bank. Here's more info: ^JP"
+17886,"[CUSTOMER] Ups, sieht die Seite auch so bei dir aus, wenn du einen anderen Browser verwendest? ^AN"
+10648,"[CUSTOMER] I'm so sorry for the delay. If you have a moment, please : ^LH"
+17888,[CUSTOMER] Has the delivery date been updated on your tracking status? You can find that here: ^BT
+17891,[CUSTOMER] What is the current delivery date? Has this passed? ^CL
+17893,[CUSTOMER] Please contact us: so an agent can look into this for you. ^JJ
+17894,[CUSTOMER] I'm sorry it hasn't arrived! Have we missed the date shown in your order confirmation e-mail here: ^MO
+17898,[CUSTOMER] have reported the issue to our support team here: 2/2 ^SH
+17901,[CUSTOMER] Please fill in your details using the link: and I'll get in touch with you soon. ^AK (2/2)
+17904,[CUSTOMER] Thanks for keeping us posted. I'll be sure to share your comments on this as feedback with the team internally. ^AB
+17902,[CUSTOMER] Apologies for the trouble with the delivery of the order. I'd like to take a closer look at this. ^AK (1/2)
+17905,[CUSTOMER] I'm sorry for the unpleasant experience. This could be due to an incorrect tracking scan update. May I know if you 1/2 ^SH
+17906,[CUSTOMER] Please help us to improve by providing your packaging feedback here: ^SY
+17909,[CUSTOMER] I'm sorry you're not seeing the credit! Many promos apply at checkout. You can learn more here: ^SG
+17911,"[CUSTOMER] Oje! Melde dich doch gleich mal hier und lass meine Kollegen prüfen, was da los sein könnte. Gruß ^DS"
+2562,[CUSTOMER] I'm sorry you didn't receive the refund amount you expected. Please check here for more info: ^BT
+17914,[CUSTOMER] Please connect with us here: and we'll assist you on how to proceed further. (2/2) ^KA
+17917,[CUSTOMER] Sorry about the payment issue. This charge could be of Prime subscription on (1/2) ^KA
+17919,[CUSTOMER] We'd like to have a look into the same; hence the request. Kindly reach out to our support team for further assistance. ^AB
+17920,"[CUSTOMER] I understand your concern, unfortunately we cannot arrange a return as already mentioned. Kindly self-return the order. ^ZH"
+18118,[CUSTOMER] Apologies for the mix-up.I’d like to help you; please fill this form: and I’ll contact you soon.^SC
+18121,"[CUSTOMER] Thank you for confirming, we are looking into it and will get back to you soon with an update. ^SI"
+18126,"[CUSTOMER] Please don't provide your order details, we consider it to be personal information. Our page is visible to the public.2/2^SY"
+18127,[CUSTOMER] We've emailed you here: Kindly check &amp; reply to if for further assistance. 1/2 ^SY
+18129,[CUSTOMER] received your revert and we'll reach out to you soon. (2/2) ^GK
+18130,"[CUSTOMER] The details are already escalated to the team and we are working on it. Further, we've (1/2) ^GK"
+18133,[CUSTOMER] Are the packages sold/fulfilled by Amazon or a third-party seller? That info can be found here: ^SH
+18135,[CUSTOMER] We've responded to your query here: ^AK
+18138,[CUSTOMER] Please respond to our email or request a call back through the same mail so we could reach out to you. ^JC
+18141,"[CUSTOMER] Please don't provide your order details, we consider it to be personal info. Our page is visible to the public. 2/2^VH"
+18144,[CUSTOMER] here: and we'll reach out to you. (2/2) ^GK
+18147,"[CUSTOMER] Thanks for sharing, Kamlesh. We'll check and get back to you at the earliest.^AR"
+18145,[CUSTOMER] I just checked and we haven't received your details yet. Kindly share your details (1/2) ^GK
+18142,[CUSTOMER] Please respond to our email or request a call back through the same mail so we could reach out to you. 1/2 ^VH
+18148,"[CUSTOMER] I'm so sorry for the trouble. If you have a moment, please ^LH"
+18151,[CUSTOMER] We're able to contact the carrier on your behalf using the link ^LH provided above. ^KP
+18153,"[CUSTOMER] When did you contact us? If you've received a reply, what insight were we able to provide? ^AR"
+18154,"[CUSTOMER] Unfortunately not. However, you can check the carrier website for more detailed tracking information. Please keep us posted. ^SY"
+18156,[CUSTOMER] That's really weird! Have you contacted them to see if they could provide any insight? ^AJ
+18158,[CUSTOMER] Hello! I'm really sorry for the frustration. Who was the carrier for the order? You can find that here: ^AJ
+18160,[CUSTOMER] I'm sure you will soon receive a reply from our Account Specialist team with an update. (2/2) ^SI
+18165,[CUSTOMER] Since your account is on hold even our hands as customer service are tied. (1/2) ^SI
+18167,[CUSTOMER] You can cancel your Prime membership and receive a refund if you haven't used the benefits here: ^SE
+18170,"[CUSTOMER] I'm sorry, this was never our intention. Did you report this to our customer service team here: ^SI"
+18172,[CUSTOMER] I'm sorry about the conflicting tracking update. Kindly share your details here: ^GK
+18176,[CUSTOMER] Sorry for the hassle. Please report this to our support team here: and we'll check this. ^HN
+18180,[CUSTOMER] If an account is put on hold a correspondence is sent to the registered email id. Please check the same for more info. ^ZH
+18183,[CUSTOMER] Geht leider nicht: Du kannst für Amazon Prime einen Bankeinzug oder eine Kreditkarte verwenden. ^DS
+18175,[CUSTOMER] Sorry for the trouble with the delivery. Kindly drop in your details here: and we'll work on it.^NS
+18186,[CUSTOMER] Thanks for sharing your details. We'll get in touch with you soon. ^AK
+18189,"[CUSTOMER] I get your concern, Abhilash. Cash back shall be processed as per the timelines shared with you. Rest assured. ^SV"
+18191,[CUSTOMER] Please reply to the email for further assistance on it. 2/2 ^RW
+18192,"[CUSTOMER] As you have filled the details, you will receive an email correspondence from our team here: ^RW 1/2"
+18194,[CUSTOMER] Kindly reply to the email that we've sent. We'll check this for you. ^SG
+18196,[CUSTOMER] You can add your insight by writing back to the e-mail sent by our team. We'll reply to the same. ^MP 2/2
+18197,[CUSTOMER] I'm sorry for this experience. The resolution provided by our team over email is the best we can offer at the moment. ^MP 1/2
+18200,[CUSTOMER] Kindly reply to the email sent by us for further assistance on this issue. ^RI
+18201,[CUSTOMER] That's strange. Let me check this out for you. Please drop your details here: (1/2) ^VM
+18204,"[CUSTOMER] That's quite a comment, Abhilash. Please elaborate your concern for us to assist you better. ^SV"
+18208,[CUSTOMER] We're glad the order was delivered ahead of schedule! We'll forward your kind words with the customer service associate. ^ZH
+18381,[CUSTOMER] Orders placed with us are basically shipped and delivered as per the estimates shared. Kindly let us know if there was a miss. ^AB
+18384,[CUSTOMER] Our Twitter page is visible to public. 3/3 ^SB
+18385,[CUSTOMER] internally to work on it. Please don’t provide your order/account details as we consider them to be personal information. 2/3 ^SB
+18388,[CUSTOMER] prime customers will receive free standard delivery. (2/2) ^VM
+18389,"[CUSTOMER] For some items, the option of one-day or two-day delivery may not available, in this case (1/2) ^VM"
+18386,[CUSTOMER] I'm sorry you had an unpleasant experience regarding the delivery. I would pass on your comments as feedback to our team 1/3 ^SB
+18391,[CUSTOMER] Prime subscribers are eligible to get free One-day or Two-day shipping. May I please know if the package was 1/2 ^SH
+18394,[CUSTOMER] The result for the contest is out and here's the link: ^AR
+18396,[CUSTOMER] and we'll work on it. Please don’t provide your order/account details as our Twitter page is visible to the public. 2/2 ^NS
+18398,[CUSTOMER] Sorry for the trouble you've had getting in touch with us. Kindly drop in your details here: 1/2
+18401,[CUSTOMER] I'm sorry to hear about this. We'd like to offer real-time troubleshooting. Please contact us here: ^LR
+18407,"[CUSTOMER] We can't confirm your account details via Twitter, so please contact JP Customer service at: TN"
+18393,[CUSTOMER] delivered after the estimated delivery date mentioned in the order confirmation email? 2/2 ^SH
+18409,[CUSTOMER] We'd like to have a look into this. Kindly report it here: and our team will revert shortly. ^AB
+18412,[CUSTOMER] I get your disappointment. I’d like to help you; please fill this form: and I’ll contact you soon. ^SC
+18414,[CUSTOMER] Unless the form is filled we wouldn't be able to offer any further insight in this case. Thanks for understanding. 2/2 ^AB
+18415,"[CUSTOMER] For account security purposes you'd have to fill the form, for us to have a look into your issue and arrange a callback. 1/2 ^AB"
+18675,"[CUSTOMER] Sorry about that! Can you reach us here again, please: ^CD"
+18678,[CUSTOMER] Please send us your details here: so we can look into this for you. ^LI
+18680,[CUSTOMER] We'd like to look into options. Please ^RR
+18683,[CUSTOMER] here: &amp; we'll help you. 2/2^AH
+18685,[CUSTOMER] I understand your concern regarding the delivery of the package. Kindly reach out to us 1/2 ^AH
+18686,[CUSTOMER] I'm sorry but I'm unable to comprehend your issue. Can you please elaborate. ^SI
+18688,[CUSTOMER] We'd like to have a look into this. Kindly report it here: and our team will assist further. ^AB
+18690,[CUSTOMER] Pricing and offers are decision of the sellers. The constantly changing marketplace 1/2^HN
+18693,"[CUSTOMER] provide your order details, we consider it to be personal information. Our page is visible to the public. 2/2 ^SY"
+18695,"[CUSTOMER] I understand your concern, kindly contact us here: &amp; we'll be glad to help you. Please don't 1/2 ^SY"
+18696,"[CUSTOMER] I'm sorry, we never intended this. Please reply to the email here: and we'll get back to you. ^SI"
+18699,[CUSTOMER] We've emailed a correspondence to you. Kindly check it here: &amp; reply to it for further assistance.^SF
+18701,[CUSTOMER] We've already sent a correspondence to your registered email ID. Please check it and reply us with your concerns. ^SC
+18703,[CUSTOMER] Kindly reply to the email that we've sent. We'll investigate this further. ^SG
+18704,"[CUSTOMER] Please don't provide your order details, we consider it to be personal information. Our page is visible to public. (2/2)^RI"
+18707,"[CUSTOMER] This feature, as of now isn't available. It will soon be available. Kindly stay tuned! ^HR"
+18710,"[CUSTOMER] In order to stream music from Amazon Prime Music on the echo devices, the customer has to be an Amazon Prime member. 2/2^AR"
+18713,[CUSTOMER] You can check this on Alexa app. ^SU
+18711,[CUSTOMER] Amazon Prime Music is one of the music streaming services available exclusively on echo devices starting 10/31. 1/2 ^AR
+18714,[CUSTOMER] Oh no! I'm sorry your package arrived empty! Was this order shipped by Amazon or a third-party seller? ^QJ
+18717,[CUSTOMER] Please reach out to us by phone here: ^RR
+18719,"[CUSTOMER] Have you heard back about the investigation, yet? Please let us know! ^LB"
+18720,[CUSTOMER] Thanks for bringing this to our notice; we'll check and forward this internally for review. ^VN
+18723,[CUSTOMER] Awesome! Happy streaming ^MD
+18724,[CUSTOMER] for you. Could you please let us know the name of the series and the episodes which shows as unavailable ? ^AS
+18726,"[CUSTOMER] I am sorry to hear that, Aletta. What notifications do you get on the previous days the order was meant to be delivered? ^SM"
+18730,[CUSTOMER] Thanks for the information! Who is the carrier of the package? You can find that info here: ^AD
+18732,"[CUSTOMER] Thanks for confirming, Aletta! Please contact us here: either by phone or chat so that we can review at the order level. Over social media, we don't have the access needed. We'll be ready to help as soon as you contact. ^TM"
+18893,"[CUSTOMER] Umm.. creepy, not sure. The offer was rolled out keeping in mind the benefit of our existing customers. Enjoy! ^AB"
+18896,[CUSTOMER] I'm sorry about the hassle. Please drop in your details here: We'll look into it. ^SB
+18898,[CUSTOMER] I'm sorry about the installation issues. Have you reported this to our team here: ^VN
+18900,[CUSTOMER] we have missed on the estimated delivery date ? 2/2 ^SB
+18903,[CUSTOMER] I’m sorry about the issue you’re facing with delivery. Let us look into it. (1/3)^HR
+18907,"[CUSTOMER] We're working on it, Saurabh. We'll get in touch with you soon. ^JC"
+18910,"[CUSTOMER] We've sent you a correspondence, kindly respond to that for further assistance. ^MN"
+18912,"[CUSTOMER] It has been sent to your registered email address, please check and revert. ^HN"
+18914,[CUSTOMER] please share your details here: and we'll check this for you. 2/2^HN
+18915,"[CUSTOMER] You should have received an email from us. In case, you haven't received the email,1/2^HN"
+18917,[CUSTOMER] Sorry about that! Could you kindly confirm if you have filled in the details with the link provided earlier? ^PB
+18921,[CUSTOMER] Thank you for sharing the details. We're working on it and we'll get back to you soon with an update. ^SY
+18924,"[CUSTOMER] We've responded to you via email, Saurabh. Please reply to the email sent for more information. ^KS"
+18926,[CUSTOMER] here: Kindly check and reply to our email for assistance. (2/2) ^MO
+18927,[CUSTOMER] We've escalated your issue and we're waiting for an update from our concern team. We've responded to you (1/2) ^MO
+18930,[CUSTOMER] Our team is currently working on your issue and will be resolved at the earliest. (1/2)^AU
+18935,"[CUSTOMER] I get your disappointment. As informed earlier, we've escalated the issue and will get back to you with an update soon. ^MO"
+18937,[CUSTOMER] I get you being upset. As mentioned earlier we will get back to you at the earliest possible. ^JS
+18931,"[CUSTOMER] For further assistance, reply to the email that you received from us. (2/2)^AU"
+18922,[CUSTOMER] Thank you for confirming. Please be assured we'll get back to you at the earliest. ^PB
+18940,[CUSTOMER] Apologies for the unpleasant experience. Kindly share your details here: and I'll contact you. ^GS
+18943,[CUSTOMER] Our Twitter page is visible to public. 3/3 ^SB
+18946,[CUSTOMER] Please don’t provide your order details as we consider them to be personal information. 2/3 ^SB
+18947,[CUSTOMER] We regret the inconvenience. Could you please let us know if we have missed on the estimated delivery date? 1/3 ^SB
+18950,"[CUSTOMER] Please don't provide your account details, as we consider it to be personal information. Our Twitter page is public.​ ^RW"
+18951,[CUSTOMER] I'm sorry for the delay in delivery. Please fill this form: and I’ll contact you at the earliest ^RW
+18953,[CUSTOMER] Thank you for providing the details. We're working on it &amp; we'll get back to you soon with an appropriate resolution. ^SY
+18955,[CUSTOMER] Please don't provide your personal information. Our page is visible to the public. 2/2 ^SC
+18956,[CUSTOMER] We've sent the correspondence to your registered email ID. Kindly check and reply with your concerns. 1/2^SC
+18958,"[CUSTOMER] Please don't provide your details, we consider it to be personal information. Our page is visible to the public. 2/2^SC"
+18959,"[CUSTOMER] As informed you earlier, please reply to our correspondence with your concerns and we'll get back. 1/2 ^SC"
+18961,[CUSTOMER] Please reply to the email correspondence for a better insight. (2/2) ^SI
+18962,"[CUSTOMER] Due to restricted access to your amazon account through Twitter, we shall not be able to provide any update here. (1/2) ^SI"
+18963,"[CUSTOMER] Please don't provide your order details, as we consider it to be personal information. Our Twitter page is public.​ ^RW"
+18966,"[CUSTOMER] You have reached out to us by tweeting. As we cannot check your order details here, kindly connect with our support team. ^RW"
+18967,[CUSTOMER] Request you to wait till estimate delivery date for an update. I'm positive that the order will be delivered accordingly. ^RW
+18968,"[CUSTOMER] Hey, did you try and change your password first? Do you have access to the email address associated with your account? ^AS"
+18970,[CUSTOMER] The second generation echo will work in India. ^AK
+18973,[CUSTOMER] Please connect with us here: over phone so we could explain you the difference. ^HK
+18974,[CUSTOMER] and reply for further assistance. 2/2 ^SB
+18977,[CUSTOMER] Apologies for the ordeal Bhakti. Please share your details here: and I'll get back to you. ^HN
+18980,[CUSTOMER] Allow our support team to look into this. You can connect with us here: ^CB.
+18984,[CUSTOMER] I apologize for this. May I know if you've connected with our support team regarding this? ^SK
+18976,[CUSTOMER] We have sent a correspondence to your registered email id. Request you to check 1/2 ^SB
+19107,"[CUSTOMER] Hey, what's up? ^AS"
+19110,[CUSTOMER] Sorry to hear that you feel this way. Please report it to an agent with access to your acc here:
+19111,"[CUSTOMER] Hi, you may check it here: ^RW"
+19115,"[CUSTOMER] Winners of the app jackpot will be announced on November 3, 2017. You can find the list here: ^SH"
+19116,"[CUSTOMER] You must have received a correspondence from our team, request you to check the same. ^SH"
+19119,[CUSTOMER] Kindly revert to our email correspondence with further query on this and we'll be happy to take it over from there. ^AB
+19122,[CUSTOMER] Thank you for confirming that you've responded to our email. We'll definitely get back. Request you to wait till then. ^SK
+19124,"[CUSTOMER] As informed earlier, request you to respond to the email you've received from our team for further assistance. ^SU"
+19126,"[CUSTOMER] If you have received an email from our team, I request you to please reply to it with your query and ^MP 1/2"
+19129,[CUSTOMER] We can't access your Amazon account over Twitter. Kindly share the needed information over the secure link shared. ^CB
+19131,"[CUSTOMER] I understand that you're upset, Dharmesh. Could you confirm, submitting your details using the link shared earlier? ^MP"
+19133,[CUSTOMER] We'd like to take a closer look into this. Please reach out to us here: and we'll check it for you.^AU
+19183,[CUSTOMER] We can't see your orders from here unfortunately but if you use the link ^JJ sent we can help :) ^AS
+19189,"[CUSTOMER] Hi, sorry to hear that, delays happen for unforeseen reasons, were you emailed with a reason for the delay?^AS"
+19192,[CUSTOMER] Sorry to hear that. We'll be happy to look into that for you. Please reach out to us here: ^RS
+19193,[CUSTOMER] Sorry for the trouble using Amazon Pay Balance. Kindly report this to our support team here: ^AR
+19196,[CUSTOMER] Glad the issue was resolved. Thank you for keeping us posted. ^SB
+19197,[CUSTOMER] Please fill in your details using the link: and I'll get in touch with you soon. ^AK (2/2)
+19200,[CUSTOMER] Request you to reply to the email correspondence which we have sent to your registered email id. We'll look into it. ^SB
+19202,[CUSTOMER] Kindly check the mailbox of you registered email id. You'll find an email correspondence from us. ^ZH
+19204,[CUSTOMER] I can understand it would be worrisome. Please be assured we'll contact you at the earliest. ^SC
+19206,[CUSTOMER] We've received your details and we'll get back to you soon. ^PS
+19208,[CUSTOMER] I'd like to take a closer look into it. Please fill in this form: and I'll revert shortly. 1/2 ^AB
+19203,[CUSTOMER] Sorry to know about the delay in resolving your query. I'd like to take a closer look at this. ^AK (1/2)
+18905,"[CUSTOMER] Also, as this a social medial platform, please don't provide order details. We consider it personal information.(3/3)^HR"
+18906,[CUSTOMER] Have you reported this to our support team here: (2/3)^HR
+19211,"[CUSTOMER] Hi, how can we help you today? ^HK"
+19213,"[CUSTOMER] Hi, sorry to hear that you're having trouble logging in. Please contact us here: to look into this.^JJ"
+19215,"[CUSTOMER] Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. ^AK (3/3)"
+19217,[CUSTOMER] Please fill in your details using the link: and I'll get in touch with you soon. ^AK (2/3)
+19218,[CUSTOMER] Apologies for the trouble with the delivery of the order. I'd like to take a closer look at this. ^AK (1/3)
+19426,[CUSTOMER] I'm sorry for the incorrect tracking update. Kindly reach out to us here: and we will fix this for you. ^AH
+19429,"[CUSTOMER] Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. (2/2) ^ZH"
+19430,[CUSTOMER] Please share your details here: and I'll personally help you. (1/2) ^ZH
+19432,"[CUSTOMER] Filling in your details wouldn't lead you to our support team, Uday. Please do the same, we'll reach out to you personally. ^JC"
+19433,"[CUSTOMER] When the product is out for delivery, it will be delivered before 8 pm. Kindly wait until then. Do keep us posted. ^AK"
+19436,[CUSTOMER] we have missed on the estimated delivery date? 2/2 ^SB
+19437,[CUSTOMER] I'm sorry about the delay in delivering your order. Could you please let us know if 1/2 ^SB
+19438,[CUSTOMER] What does the latest tracking update state on your order? ^HK
+19440,"[CUSTOMER] You're welcome, Aleema. Do let us know if you need any further assistance. ^SY"
+19443,"[CUSTOMER] We've responded to your query via DM, please check. ^HA"
+19446,[CUSTOMER] We'd like to check get this checked for you. Kindly share your details here: and I'll contact you. ^GS
+19449,"[CUSTOMER] Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. (2/2) ^ZH"
+19450,[CUSTOMER] We don't have access to your account over Twitter. Please share your details in the link given earlier by 'GS'. (1/2) ^ZH
+19454,"[CUSTOMER] Also, as this a social medial platform, please don't provide order details. We consider it personal information.^HR"
+19460,"[CUSTOMER] Hi, please don't share order numbers here as this page is public. Please contact us; to look into this. ^JJ"
+19463,"[CUSTOMER] W/o posting personal info, what is the issue with the orders? What was advised when you contacted? ^PK"
+19465,[CUSTOMER] I'm sorry to hear that. What were you advised when you contacted us by phone/chat? ^DC
+19456,[CUSTOMER] Please share your details from the link here: assist you accordingly. (2/2)^HR
+19457,[CUSTOMER] I’m sorry about the issue you’re facing with delivery. Let us look into it.(1/2)^HR
+19467,"[CUSTOMER] sorry to hear that, from what Amazon marketplace were you shopping from? .com, .co.uk, .es etc? ^AS"
+19470,"[CUSTOMER] Apologies, have you looked into filling an A-Z Claim: ^JJ"
+19472,[CUSTOMER] Hi please contact us here: and a specialist will look into it for you. ^AS
+19474,[CUSTOMER] I'm sorry for the trouble with your order. Have you reached out to our support team from here: ^RW
+19476,[CUSTOMER] as possible. Kindly drop your details here: and I'll get back to you. 2/2 ^SH
+19478,[CUSTOMER] I'm sorry to know the pick up hasn't been completed yet. I'd like to work on the issue and get the item picked as soon 1/2 ^SH
+19480,[CUSTOMER] We don't have access to your account over Twitter. Please share your details in the link and we'll be sure to help you. ^ZH
+19482,[CUSTOMER] I appreciate your understanding in this regard. We've received your details and we'll get back to you at the earliest. ^SC
+19483,[CUSTOMER] Apologies for the inconvenience. Have you tried reporting this to our support team here: ? ^AB
+19486,"[CUSTOMER] In that case, please fill out this form: and we'll look into this for you. ^AM"
+20023,"[CUSTOMER] Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. ^ZH"
+20026,[CUSTOMER] Sorry to hear this. Has any reason been given for the delay? ^KM
+20030,[CUSTOMER] Please reach out to us directly here: and we can look into this further. ^PK
+20025,[CUSTOMER] We apologize for the delay in the delivery of the order. Please contact us here: and we'll help you ^ZH
+20031,[CUSTOMER] You're most welcome. Thanks for keeping us posted. ^AB
+20033,[CUSTOMER] please check this link here: (2/2) ^KA
+20036,[CUSTOMER] Thanks Bill. I hope you get your issue sorted soon. ^KM
+20038,[CUSTOMER] Now that's what we like to hear :) Thanks Bill! ^AS
+20040,[CUSTOMER] Which Amazon website did this happen on? ^KM
+20042,[CUSTOMER] We'd like to help you with your query. Kindly contact our support team here: (1/2) ^ZH
+20045,[CUSTOMER] Prime membership was being offered at an introductory price of Rs. 499 per year. Since the promotion has 1/2 ^SH
+20044,"[CUSTOMER] Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. (2/2) ^ZH"
+20047,[CUSTOMER] now expired the membership will cost Rs.999. 2/2 ^SH
+20048,[CUSTOMER] Couriers are assigned depending on the pin codes of the delivery address. Kindly elaborate if you've any queries. ^AK
+20035,"[CUSTOMER] You can update your payment methods by visiting the Payment section in Your Account page. For more information, (1/2) ^KA"
+20050,[CUSTOMER] Sorry to hear that. What error message are you getting? ^RS
+20053,[CUSTOMER] My apologies Christopher. Have you tried from a non mobile device? ^DC
+20417,"[CUSTOMER] Hey, US should ship to Denmark, are you getting an error message? ^AS"
+20419,[CUSTOMER] You can find the list of authorized seller's here: ^SH
+20422,[CUSTOMER] Pls reach out here so we can check this for you ^KM
+20430,"[CUSTOMER] Currently, we do not have an update on this. Please stay tuned. ^HK"
+20432,"[CUSTOMER] We send a limited number of invitations each week to customers, so keep an eye on your inbox. ^ZH"
+20435,"[CUSTOMER] As informed earlier, we will forward your request. However, I request you to wait for it. (2/2)^HR"
+20436,[CUSTOMER] Thank you for showing the interest towards our device. Good things come to those who wait. 😇 (1/2)^HR
+20437,"[CUSTOMER] Hey, what is your reason for returning the items? ^AS"
+20440,[CUSTOMER] Please reach out to us directly here: and we can help arrange a return for you. ^PK
+20441,[CUSTOMER] You may request an immediate call back from us here: Do you see any error? ^HK
+20444,[CUSTOMER] on 'call me' option and a call shall be connected with our support team. 2/2 ^SH
+20448,"[CUSTOMER] If you're unable to arrange a call back, kindly contact our support team using the chat/email option and we'll help you. ^ZH"
+20450,[CUSTOMER] Apologies for the ordeal Kaushal. Please share your details here: and I'll get back to you. ^HN
+20454,[CUSTOMER] Sorry for the confusion. Please reply to the email sent by our team earlier &amp; we'll update you on this. ^RS
+20445,[CUSTOMER] Please click here: after selecting the appropriate issue click 1/2 ^SH
+20456,"[CUSTOMER] Thanks for the update, we've received your reply to our correspondence. We'll get back to you at the earliest. ^SC"
+20459,[CUSTOMER] Could you please confirm if you have replied to the email sent by us. ^VH
+20462,"[CUSTOMER] Sorry about the stretch, Kaushal. Please reply to the email sent to you. Once we receive your reply, we'll check &amp; assist.^SV"
+20464,[CUSTOMER] I understand your concern for delivery. We'll get back to you on this soon &amp; corrected actions will be taken on carrier. ^BS
+20466,"[CUSTOMER] Sorry that you haven't received your order yet. I’d like to help you, please fill this form: (1/2)^SY"
+20470,[CUSTOMER] Have you reached out to our support team as suggested earlier? ^RW
+20472,[CUSTOMER] May I please know if you have filled your details through the link provided earlier? ^SH
+20474,[CUSTOMER] Sorry to hear this. Has any reason been given for the delay? ^KM
+20478,[CUSTOMER] We haven't announced any updates regarding this. Please stay tuned. ^SH
+20480,[CUSTOMER] Pls reach out here so we can check this for you ^KM
+20483,"[CUSTOMER] ok, and were you given some information? ^AS"
+20484,[CUSTOMER] Please connect with us here: and we'll help you with this. ^HK
+20487,[CUSTOMER] I have forwarded your comment as a feedback internally for a review. Appreciate your understanding. (3/3) ^SI
+20488,[CUSTOMER] Amazon.in has recently introduced the Prime membership and we are trying to provide you the best possible offers. (2/3) ^SI
+20489,[CUSTOMER] Both these websites operate independently and hence provide different set of offers with Prime. (1/3) ^SI
+20490,"[CUSTOMER] The cash load feature isn't available with Amazon Now orders currently, Jigar."
+20733,[CUSTOMER] Je vous renouvelle mes excuses. j'espère que le problème a été résolu. ^YL
+20737,"[CUSTOMER] sorry to hear that, can you contact us here: we'd like to help ^AS"
+20742,"[CUSTOMER] Please don't provide your order details, as we consider it to be personal information. Our Twitter page is public.​ ^RW"
+20746,"[CUSTOMER] Mi spiace, hai segnalato l'accaduto al nostro Servizio Clienti? ^GA"
+20749,[CUSTOMER] Puoi contattare tramite questo link: A presto! ^CS
+20745,[CUSTOMER] Request you to wait till estimate delivery date for an update. I'm positive that it will be delivered accordingly. ^RW
+20752,"[CUSTOMER] a degraded experience. So for the best experience, you need both PFM India and language English India. (3/3) ^VM"
+20755,[CUSTOMER] Please get in touch with us via and we'll check this out. ^AM
+20759,"[CUSTOMER] You should receive it today or tomorrow according to the tracking information, unfortunately I can't look into it further here ^AS"
+20761,[CUSTOMER] I understand. Parcels can be delivered up to 21:00. Please let us know if the order does not arrive by that time. ^AL
+20763,[CUSTOMER] I'm so sorry! We don't have access to order information via Twitter. What does the tracking show here? ^TK
+20765,[CUSTOMER] Woohoo! That's awesome! I hope if you ever need anything you will let us know. :-) ^AK
+20757,"[CUSTOMER] India preferred market place. However, if you have PFM India but not English India, you will still have.(2/3)^VM"
+20758,"[CUSTOMER] For the India skills, you don't necessarily need to have English India as language. What you need is (1/3) ^VM"
+21011,"[CUSTOMER] We're sorry to hear that, Anand. Could you please tell us what went wrong so we could check? ^HK"
+21013,"[CUSTOMER] As you have filled the form, you will receive an email here: ^RW"
+21016,[CUSTOMER] be able to provide any further insight on this. 2/2 ^SH
+21017,[CUSTOMER] The resolution provided by our specialist team over the email is the best we can offer. I'm sorry we'll not 1/2 ^SH
+21024,[CUSTOMER] That's strange! We'd like to investigate this issue further. Please contact us here: ^ZH
+21026,[CUSTOMER] Hi. I'm sorry to hear that. Have you tried by phone/chat for a swifter response? ^DC
+21029,[CUSTOMER] You can try requesting a call back here: ^PK
+21030,[CUSTOMER] Sorry for the trouble with your account! You're welcome to reach out to us here: ^BG
+21034,[CUSTOMER] Apologies. That's certainly unexpected. Kindly report it here: and our team will look into it. ^AB
+21036,[CUSTOMER] Vous pouvez contacter la poste afin de demander une relivraison ou un dépôt en bureau de poste. ^ARC
+21039,"[CUSTOMER] J'en suis navrée. En effet, certains transporteurs effectuent une nouvelle livraison à domicile et la poste en fait partie."
+21040,"[CUSTOMER] Bonjour Guillaume, je suis désolé pour cela. Etiez-vous présent lors du passage du livreur? ^ARC"
+21042,[CUSTOMER] I get your disappointment.Please fill your details in the link provided to you earlier so that we can assist you accordingly.^SC
+21044,"[CUSTOMER] Please don't provide your order details, as we consider it to be personal information. Our Twitter page is public.​ ^RW"
+21046,[CUSTOMER] I'm sorry for the delay with your order. Please reach out to our support team here: for assistance.^RW
+21049,[CUSTOMER] I'd like to look into the issue and assist you with it. Please provide your details here: 1/2 ^SH
+21052,[CUSTOMER] Sorry about that. Could you please check if you've received an email in response to the details you shared earlier? ^NR
+21054,"[CUSTOMER] If you've provided the details earlier in the link, you should've received an email from the social media team. ^NR"
+21058,"[CUSTOMER] Apologies for the experience, Ananya. We've sent a correspondence to your registered email. Please reply &amp; we'll assist. ^SV"
+21057,"[CUSTOMER] We'll not be able to access your account over social media, Ananya. Please reply to the email and we'll get back to you. ^HD"
+21064,[CUSTOMER] to locate the email then please resubmit the details in the link provided by ^SH and we'll reach out to you. (2/2) ^KA
+21068,[CUSTOMER] Please provide your details here: &amp; we'll reach out to you again &amp; assist you with your concern.^SF
+21070,[CUSTOMER] can look into the issue and get back to you. 2/2 ^SH
+21073,[CUSTOMER] Thank you for sharing the details. We're working on it &amp; we'll get back to you soon with an update. ^SY
+21075,"[CUSTOMER] Please allow us 6-12 hours to get back to you with an update. Appreciate your patience, Ananya. ^JC"
+21071,[CUSTOMER] We haven't received your details yet. Kindly share your details through the link provided above so that we 1/2 ^SH
+21065,[CUSTOMER] Sorry for the inconvenience. You may check the email from our team here: if you are unable (1/2) ^KA
+21050,[CUSTOMER] and I'll get back to you. 2/2 ^SH
+21076,"[CUSTOMER] Hi, apologies. Carriers should not follow handwritten delivery notes. You can set them on your acc: ^JJ"
+21080,[CUSTOMER] Please reach out to us directly here: and we can look into this. ^PK
+21081,[CUSTOMER] Our Twitter page is visible to public. 3/3 ^SB
+21083,[CUSTOMER] I'm sorry about the delay in refund. Please escalate this to our support team here: 1/3 ^SB
+21084,[CUSTOMER] We'll look into it. Please don’t provide your order/account details as we consider them to be personal information. 2/3 ^SB
+21085,"[CUSTOMER] sorry to hear that, sometimes delays happen for unforeseen reasons. ^AS"
+21089,"[CUSTOMER] Hi, please request a call here: to look into this. ^JJ"
+21091,[CUSTOMER] My apologies Frances. What was the expected delivery date given at the time the order was placed? ^DC
+21094,"[CUSTOMER] sorry to hear that, delays can happen sometimes for unforeseen reasons, its not what we want you to experience. ^AS"
