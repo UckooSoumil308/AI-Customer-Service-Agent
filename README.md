@@ -228,6 +228,33 @@ The LLM abstraction layer in `src/llm_client.py` ensures continuous enterprise a
 
 ---
 
+## 7. Attributions, Citations & Data Provenance
+
+This project leverages open-source data, pre-trained embeddings, and external foundational models. Every imported dependency, baseline dataset, and model artifact is documented below alongside the specific engineering transformations applied by our team.
+
+### Data Sources & Curation Provenance
+
+| Asset | Source / Origin | Purpose in Pipeline | Modifications & Engineering Added |
+| :--- | :--- | :--- | :--- |
+| **Raw Customer Support Interactions** | [Kaggle Customer Support on Twitter (`twcs.csv`)](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter) | Source corpus filtered for `@AmazonHelp` interactions. | Ingested 700 inbound queries and 1,000 outbound agent responses. Applied ASCII encoding filters (`> 0.85`), scrubbed `[http://t.co/](http://t.co/)...` URLs, anonymized usernames to `[CUSTOMER]`, and stripped repetitive corporate boilerplate (e.g., *"Please DM us"*) via custom regex. |
+| **Golden Evaluation Dataset (`true_golden_eval_set.csv`)** | Curated derived subset ($N=290$) | Benchmark dataset for evaluating intent accuracy, faithfulness, and escalation precision. | Implemented stratified sampling with mathematical capping at 72 rows per dominant class to eliminate a 72% generic inquiry bias. Retained 100% of minority edge cases (e.g., all 13 damaged item reports) and flagged safety risk keywords (`fraud`, `lawsuit`). |
+| **RAG Knowledge Base (`production_rag_knowledge_base.csv`)** | Sanitized derived corpus ($N=925$) | Contextual ground truth indexed into vector storage for grounded retrieval. | Vectorized into ChromaDB with metadata attributes to support runtime cosine similarity lookups. |
+
+### Models & External Libraries
+
+| Component | Provider / Library | Artifact / Version | Implementation Role |
+| :--- | :--- | :--- | :--- |
+| **Dense Vector Embeddings** | Hugging Face / Sentence-Transformers | `all-MiniLM-L6-v2` | Computes local 384-dimensional embeddings for knowledge base chunking and query retrieval, operating with sub-25ms latency. |
+| **Vector Storage Engine** | Chroma | `chromadb` | Embedded local vector database for cosine similarity search. |
+| **Inference & Evaluation LLMs** | Multi-Provider API (Google, Groq, OpenAI) | `gemini-2.5-flash`, `gpt-4o-mini`, Llama 3 / Mixtral endpoints | Multi-provider round-robin routing abstraction (`src/llm_client.py`) with exponential backoff and stateful checkpointing (`eval_checkpoint.json`) to bypass HTTP 429 rate limits. |
+| **Frontend Observability Console** | Streamlit | `streamlit` | Powers the Executive Analytics dashboard, Forensic Split-View Inspector, and Interactive Copilot interface. |
+
+### Conceptual Attribution
+
+* **Evaluation Architecture:** The LLM-as-a-Judge methodology used in `3_evaluate_system.py` adopts the evaluation paradigm popularized by Ragas and G-Eval (scoring on Faithfulness, Intent Alignment, and Persona Adherence on a 1–5 scale). Custom evaluation rubrics were designed specifically for tier-1 retail support, supported by a 50-sample human spot-check validation demonstrating 94% score concordance.
+
+---
+
 ## 📜 License
 
 This project is open-source under the [Apache 2.0 License](LICENSE).
