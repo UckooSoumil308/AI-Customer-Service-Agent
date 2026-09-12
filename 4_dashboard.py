@@ -11,6 +11,9 @@ Run:
 
 import os
 import re
+from dotenv import load_dotenv
+
+load_dotenv()
 import sys
 import json
 import smtplib
@@ -23,6 +26,16 @@ from pathlib import Path
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
+
+def get_active_providers():
+    providers = []
+    if os.getenv("GROQ_API_KEY"):
+        providers.append("Groq")
+    if os.getenv("GEMINI_API_KEY"):
+        providers.append("Gemini")
+    if os.getenv("OPENAI_API_KEY"):
+        providers.append("OpenAI")
+    return providers
 
 # ---------------------------------------------------------------------------
 # Page Config
@@ -339,6 +352,29 @@ def render_sidebar(df):
             '<hr style="border:none;border-top:1px solid #e5e7eb;margin:8px 0 16px 0;">',
             unsafe_allow_html=True,
         )
+
+        with st.expander("⚙️ Pipeline Execution Mode", expanded=True):
+            execution_mode = st.radio(
+                "Select Backend Engine:",
+                options=[
+                    "⚡ Offline Mode (ChromaDB + Benchmark Replay)",
+                    "☁️ Live Cloud LLM (Uses .env API Keys)"
+                ],
+                index=0,
+                help="Offline Mode runs 100% locally with zero API cost. Live Mode calls your provider API using keys in .env."
+            )
+            st.session_state.execution_mode = execution_mode
+    
+            active_providers = get_active_providers()
+            if execution_mode == "☁️ Live Cloud LLM (Uses .env API Keys)":
+                if active_providers:
+                    st.success(f"🟢 Active API Keys: {', '.join(active_providers)}")
+                else:
+                    st.warning("⚠️ No LLM API keys found in .env. Switch to Offline Mode or add keys.")
+            else:
+                st.info("🔵 Zero API Cost · Local ChromaDB & Evaluated Records")
+
+        st.markdown("<br>", unsafe_allow_html=True)
 
         with st.expander("⚙️ System Footprint", expanded=True):
             st.markdown(
@@ -805,14 +841,18 @@ def render_zia_tab(df, tone, persona):
                     st.write(f"⚡ Retrieved {int(top_k)} policy chunks from ChromaDB (925 indexed passages)...")
                     
                     is_offline = user_query in df["query"].values
+                    
+                    is_live_mode = st.session_state.get("execution_mode", "").startswith("☁️")
                     api_key = os.getenv("OPENAI_API_KEY") or os.getenv("GROQ_API_KEY") or os.getenv("GEMINI_API_KEY")
                     
-                    if api_key:
+                    if is_live_mode and api_key:
                         st.write("🌐 Live API Key found, routing to LLM provider...")
                         result = mod.generate_response(query=user_query.strip(), top_k=int(top_k), collection=collection)
                         result["_is_offline"] = False
                         st.session_state.agent_result = result
                     else:
+                        if is_live_mode and not api_key:
+                            st.warning("Live Mode selected but no API keys found in .env. Falling back to Offline Mode.")
                         st.write("📴 Offline Mode fallback...")
                         if is_offline:
                             rec = df[df["query"] == user_query].iloc[0]
