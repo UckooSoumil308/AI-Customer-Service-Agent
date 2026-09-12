@@ -723,6 +723,29 @@ def render_forensic_tab(df, filtered_df):
             unsafe_allow_html=True,
         )
 
+        with st.expander("🛠️ Human-in-the-Loop Correction", expanded=False):
+            corrected_text = st.text_area(
+                "Human Corrected Response",
+                value=rec["agent_response"],
+                height=150,
+                key=f"hitl_{idx}"
+            )
+            
+            fine_tune_example = {
+                "query": rec["query"],
+                "retrieved_contexts": rec["retrieved_contexts"],
+                "agent_response": corrected_text
+            }
+            jsonl_str = json.dumps(fine_tune_example) + "\n"
+            
+            st.download_button(
+                label="Export as Fine-Tuning Example (.jsonl)",
+                data=jsonl_str,
+                file_name=f"hitl_correction_{rec['tweet_id']}.jsonl",
+                mime="application/jsonl",
+                type="primary",
+                use_container_width=True
+            )
 
 # ---------------------------------------------------------------------------
 # RAG Agent Loader

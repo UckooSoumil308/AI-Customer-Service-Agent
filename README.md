@@ -87,6 +87,7 @@ streamlit run 4_dashboard.py
 > **Instant Offline Mode**: Loads 273 forensic records directly from `data/reports/final_evaluation_report.json`.
 > - **Executive KPI Dashboard**: Metrics, latency distributions, and intent breakdown charts.
 > - **Forensic Audit Inspector**: Explore row-level prompts, gold intents, LLM answers, and judge rationales.
+> - **Human-in-the-Loop Correction (MLOps)**: Modify agent responses directly in the inspector and export serialized `.jsonl` examples for LLM fine-tuning.
 > - **Live Zia Copilot Console**: Run offline-curated or vector-grounded support queries and draft simulated email dispatches.
 
 ---

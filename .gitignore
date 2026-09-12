@@ -6,7 +6,8 @@
 *.pem
 secrets/
 
-# ─── Large Datasets & Local Logs ──────────────────────────────────────────────
+# ─── Persistent Vector Store & Large Artifacts ──────────────────────────────
+
 twcs/
 email_dispatch_log.txt
 
