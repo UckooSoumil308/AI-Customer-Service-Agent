@@ -89,7 +89,7 @@ streamlit run 4_dashboard.py
 > - **Forensic Audit Inspector**: Explore row-level prompts, gold intents, LLM answers, and judge rationales.
 > - **Human-in-the-Loop Correction (MLOps)**: Modify agent responses directly in the inspector and export serialized `.jsonl` examples for LLM fine-tuning.
 > - **Dual-Mode Inference Engine**: Switch seamlessly between **Offline Mode** (zero-cost benchmark replay) and **Live Cloud LLM Mode** (queries providers directly using keys in `.env`) directly from the UI sidebar.
-> - **Live Zia Copilot Console**: Run offline-curated or vector-grounded support queries and draft simulated email dispatches.
+> - **Live Copilot Console**: Run offline-curated or vector-grounded support queries and draft simulated email dispatches.
 
 ---
 

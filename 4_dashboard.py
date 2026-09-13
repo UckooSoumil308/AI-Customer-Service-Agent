@@ -392,7 +392,7 @@ def render_sidebar(df):
                 unsafe_allow_html=True,
             )
 
-        with st.expander("🤖 Zia Guidance Rules", expanded=True):
+        with st.expander("🤖 Copilot Guidance Rules", expanded=True):
             tone = st.selectbox("Tone of Voice",
                 ["Empathetic & Professional", "Concise", "Technical"], key="zia_tone")
             persona = st.radio("Target Persona",
@@ -410,7 +410,7 @@ def render_sidebar(df):
         st.markdown("<br>", unsafe_allow_html=True)
         st.markdown(
             f'<div style="font-size:11px;color:#94a3b8;text-align:center;">'
-            f'Zia v2.4 \u00b7 {df.shape[0]} records loaded</div>',
+            f'Copilot v2.4 · {df.shape[0]} records loaded</div>',
             unsafe_allow_html=True,
         )
 
@@ -808,15 +808,15 @@ def _load_rag_module():
 
 
 # ---------------------------------------------------------------------------
-# Tab 3: Zia Reply & Email Assistant
+# Tab 3: Live Copilot & Email Assistant
 # ---------------------------------------------------------------------------
 
-def render_zia_tab(df, tone, persona):
+def render_copilot_tab(df, tone, persona):
     st.markdown("<br>", unsafe_allow_html=True)
     col_in, col_em = st.columns([1, 1])
 
     with col_in:
-        st.markdown('<div class="section-header">🤖 Zia Live Copilot Console</div>',
+        st.markdown('<div class="section-header">🤖 Live Copilot Resolution Console</div>',
                     unsafe_allow_html=True)
 
         query_list = ["-- Custom Query --"] + df["query"].tolist()
@@ -944,7 +944,7 @@ def render_zia_tab(df, tone, persona):
                 st.code(raw_res, language=None)
 
             st.markdown("<br>", unsafe_allow_html=True)
-            st.markdown('<div class="section-header">📡 Zia Content Analysis</div>',
+            st.markdown('<div class="section-header">📡 Copilot Telemetry & Content Analysis</div>',
                         unsafe_allow_html=True)
             m = result.get("metrics", {})
             tcols = st.columns(4)
@@ -1099,7 +1099,7 @@ def main():
     tab1, tab2, tab3 = st.tabs([
         "  Executive Analytics & Benchmarks",
         "  Forensic Answer Sandbox",
-        "  Zia Reply & Email Assistant",
+        "  Live Copilot & Email Assistant",
     ])
 
     with tab1:
@@ -1107,7 +1107,7 @@ def main():
     with tab2:
         render_forensic_tab(df, filtered)
     with tab3:
-        render_zia_tab(df, tone, persona)
+        render_copilot_tab(df, tone, persona)
 
 
 if __name__ == "__main__":
