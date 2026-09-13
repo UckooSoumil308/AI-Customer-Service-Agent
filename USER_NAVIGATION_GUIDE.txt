@@ -1,0 +1,73 @@
+Quick App Tour Guide: Amazon Help Support Console
+
+A concise, step-by-step walkthrough to navigate every feature of the console.
+
+--------------------------------------------------
+Step 1: Top KPI Banner (High-Level Overview)
+--------------------------------------------------
+- AI Resolution Rate (~95%): Tickets resolved autonomously by the AI agent.
+- Escalation Rate (~5%): Complex edge cases safely flagged for human specialists.
+- Composite Score (4.88 / 5.0): LLM Judge rating across intent, accuracy, and tone.
+- Retrieval Latency (~20ms): Local ChromaDB vector search speed across 925 policy chunks.
+- Evaluated Tickets (273): Total audited benchmark cases.
+
+--------------------------------------------------
+Step 2: Sidebar (Mission Control)
+--------------------------------------------------
+- Execution Mode:
+  * Offline Mode: Zero cost, runs locally on ChromaDB and benchmark replay.
+  * Live Cloud LLM: Real-time responses using Groq, Gemini, or OpenAI keys in .env or Streamlit Secrets.
+- Copilot Guidance Rules: Switch Tone (Empathetic, Concise, Technical) and Persona (@AmazonHelp Twitter, Formal Email).
+- Triage Filters: Filter tickets by Intent Category, Escalation Status (Auto-Resolved, Escalated), Faithfulness score, or Keyword/Tweet ID search.
+
+--------------------------------------------------
+Step 3: Tab 1 - Executive Analytics & Benchmarks
+--------------------------------------------------
+- Quality Bar Chart: Intent Alignment (Blue), Faithfulness (Green), and Tone (Orange) across categories.
+- Confusion Matrix: 2x2 matrix tracking True Positives (escalated), True Negatives (auto-resolved), and edge cases.
+- Classification Gauges: Precision, Recall, F1 Score, and Accuracy metrics.
+- Token Donut & Latency Histogram: Resource telemetry for agent and judge models.
+- Category Summary Table: Detailed breakdown with inline progress bars.
+
+--------------------------------------------------
+Step 4: Tab 2 - Forensic Answer Sandbox
+--------------------------------------------------
+1. Ticket Queue (Left): Browse through the 273 audited customer interactions. Click "Inspect #<id>" on any card.
+2. Conversation Inspector (Right): Side-by-side comparison of Customer Query and AI Agent Resolution with an Auto-Resolved or Escalated badge.
+3. ChromaDB Evidence: Expand to inspect the exact policy passages and source tweet IDs used.
+4. LLM Judge Scorecard: View 1 to 5 star scores and read the exact reasoning behind the evaluation.
+
+--------------------------------------------------
+Step 5: Tab 3 - Live Copilot & Email Assistant
+--------------------------------------------------
+- Live Copilot Console (Left):
+  1. Pick a question from the benchmark dropdown or select Custom Query to type your own.
+  2. Select Top-K Contexts (1 to 5 policy passages, default: 3).
+  3. Click Run Agent Resolution to trigger ChromaDB retrieval and response synthesis.
+  4. View the generated reply, click Copy Text, and review real-time latency and token metrics.
+- Amazon Email Dispatch Preview (Right):
+  1. The generated resolution auto-populates the email draft.
+  2. Enter a customer email in Recipient Email.
+  3. Edit the message if desired, review the formatted enterprise email frame, and click Send Support Email (transmits via SMTP or logs to email_dispatch_log.txt).
+
+--------------------------------------------------
+Quick 60-Second Tours to Try:
+--------------------------------------------------
+1. The Audit: Look at the top KPI banner, then check the Confusion Matrix in Tab 1.
+2. The Escalation Check: In the sidebar filter, set Escalation Status to Escalated (TP) and inspect an edge-case ticket in Tab 2.
+3. The Live Query: In Tab 3, select a query, click Run Agent Resolution, and click Send Support Email to view mock dispatch.
+
+--------------------------------------------------
+Frequently Asked Questions (FAQ):
+--------------------------------------------------
+- Why does a custom query in Offline Mode give a template response?
+  Offline Mode avoids paid API calls by pulling the best policy from ChromaDB into a clean template. Switch to Live Cloud LLM with an API key for dynamic generation.
+
+- How do I add API keys on Streamlit Cloud?
+  Go to your app at share.streamlit.io, open Settings, go to Secrets, and add GROQ_API_KEY = "gsk_..." (Groq is free and fast).
+
+- What is Top-K Contexts?
+  The number of policy chunks retrieved from ChromaDB. Use 3 for everyday queries, or 4 to 5 for complex questions.
+
+- Where do simulated emails go?
+  If SMTP is unconfigured, sent emails are automatically logged to email_dispatch_log.txt in the app directory.
