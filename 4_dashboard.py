@@ -24,6 +24,15 @@ from email.mime.multipart import MIMEMultipart
 from pathlib import Path
 
 import streamlit as st
+
+# Sync Streamlit Cloud secrets to environment variables if present
+try:
+    for key in ["GROQ_API_KEY", "GEMINI_API_KEY", "OPENAI_API_KEY"]:
+        if hasattr(st, "secrets") and key in st.secrets and not os.getenv(key):
+            os.environ[key] = str(st.secrets[key])
+except Exception:
+    pass
+
 import pandas as pd
 import plotly.graph_objects as go
 
